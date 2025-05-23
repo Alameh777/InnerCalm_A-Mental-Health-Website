@@ -1,0 +1,1001 @@
+sleep_hours,trained,mood,stress_level,water_liters,caffeine_cups,social_interaction,screen_hours,ate_healthy,spent_time_outside,meditated,work_study_hours,enough_sleep_week,physical_tiredness,mental_tiredness,motivation_level,suicidal_thoughts,result
+6,True,3,4,0.7,2,True,8,True,False,False,3,False,2,4,2,False,Feeling Down
+6,False,4,3,1.9,0,False,9,True,True,True,3,True,4,5,4,False,Cheerful
+8,True,3,1,3.3,3,True,2,False,False,False,12,False,3,3,5,False,Balanced
+6,True,3,4,2.6,1,True,2,False,True,False,4,False,1,2,5,False,Feeling Down
+7,True,5,1,3.2,1,False,10,True,True,True,11,False,2,2,5,False,Thriving
+8,True,2,2,2.3,0,True,5,False,False,False,7,False,1,2,3,False,Feeling Down
+7,False,5,2,1.2,3,True,9,True,True,True,7,False,4,1,1,False,Thriving
+8,False,5,1,0.8,1,False,2,True,False,False,7,True,4,4,3,False,Thriving
+9,True,3,3,1.0,1,False,9,False,True,False,5,True,4,3,2,False,Balanced
+9,False,2,4,2.4,1,True,9,True,True,False,12,False,3,1,3,False,Critical
+5,True,1,2,1.9,4,False,6,True,False,False,7,True,2,5,4,False,Balanced
+7,True,4,2,0.9,0,False,9,False,False,False,9,False,4,4,4,False,Cheerful
+8,False,2,4,0.6,2,False,5,True,False,False,0,False,2,5,3,False,Critical
+7,True,3,3,1.3,1,True,9,False,False,False,7,True,3,2,3,False,Balanced
+8,False,5,1,1.3,0,False,8,True,True,True,12,True,1,4,5,False,Thriving
+6,False,5,3,0.6,1,False,8,True,True,True,1,False,1,3,2,False,Thriving
+8,False,2,4,3.4,0,False,3,True,True,False,1,False,2,2,5,False,Critical
+6,False,3,2,2.4,2,True,10,False,True,False,8,False,1,2,3,False,Balanced
+9,False,4,3,2.0,0,True,8,False,False,False,0,True,4,1,2,False,Cheerful
+8,False,3,2,3.1,1,True,6,False,True,False,2,False,3,3,3,False,Balanced
+9,True,2,3,1.7,2,False,10,True,True,False,1,True,4,4,5,False,Feeling Down
+9,True,5,2,1.1,2,True,6,True,False,False,10,False,3,3,5,False,Thriving
+7,True,5,2,2.9,2,True,3,True,False,False,2,False,3,1,2,False,Thriving
+7,False,5,5,3.4,1,False,6,False,False,True,11,True,4,1,3,False,Feeling Down
+7,False,5,3,0.8,1,False,6,False,True,False,6,False,4,2,3,False,Thriving
+8,False,4,4,2.5,0,True,6,False,True,True,3,True,4,3,3,False,Feeling Down
+5,False,5,4,1.8,0,True,10,False,False,False,5,True,2,5,4,False,Feeling Down
+6,False,4,3,0.8,0,False,3,False,False,False,3,False,5,4,5,False,Cheerful
+9,False,4,2,2.7,1,True,7,False,False,False,12,False,1,2,2,False,Cheerful
+9,False,5,5,1.4,1,False,3,True,False,False,1,True,1,2,3,False,Feeling Down
+8,False,5,1,2.4,1,False,8,False,True,True,1,True,2,3,2,False,Thriving
+7,True,1,3,1.3,0,True,2,False,True,False,4,False,2,2,1,False,Balanced
+8,True,3,3,3.2,1,True,10,False,True,False,6,True,3,3,2,False,Balanced
+9,False,4,2,2.9,1,False,8,False,True,True,12,True,3,2,5,False,Cheerful
+8,False,4,2,1.3,1,True,10,False,False,False,0,False,3,3,3,False,Cheerful
+7,False,1,4,1.0,3,True,6,True,True,True,11,False,3,1,3,False,Critical
+6,False,5,1,0.6,1,True,3,False,False,True,7,False,3,2,4,False,Thriving
+7,True,3,1,3.1,0,False,7,True,True,False,3,True,2,4,3,False,Balanced
+7,True,5,1,0.6,4,True,8,True,True,False,10,True,1,3,4,False,Thriving
+9,False,4,1,1.4,2,True,9,True,False,False,2,False,2,5,3,False,Cheerful
+7,False,4,4,0.6,2,False,7,False,False,False,2,True,1,3,2,False,Feeling Down
+7,True,1,3,0.9,0,True,4,False,False,False,5,False,3,1,4,False,Balanced
+6,False,5,4,0.7,2,True,8,False,True,False,10,True,4,3,3,False,Feeling Down
+8,False,3,1,1.2,2,True,8,False,True,False,9,False,4,3,3,False,Balanced
+8,False,3,1,1.7,0,False,7,False,True,False,5,True,3,3,3,False,Balanced
+6,False,5,2,1.1,1,False,10,False,False,False,5,False,4,1,3,False,Thriving
+9,False,2,1,3.0,0,True,10,False,False,True,2,False,2,2,3,False,Feeling Down
+5,False,3,4,2.6,0,True,4,False,True,True,7,True,2,3,5,False,Feeling Down
+6,False,3,2,1.5,1,True,8,True,False,False,8,False,2,1,3,False,Balanced
+7,False,3,1,1.3,1,False,9,False,True,False,8,False,3,5,5,False,Balanced
+6,False,3,4,0.9,0,False,9,True,False,False,12,False,2,1,5,False,Feeling Down
+6,False,1,2,2.8,0,True,7,False,True,False,2,False,1,2,2,False,Balanced
+7,True,4,1,3.5,0,False,7,False,False,True,4,False,3,4,3,False,Cheerful
+6,False,3,3,3.1,1,False,6,False,True,False,4,True,4,3,4,False,Balanced
+8,False,5,2,2.5,1,True,10,True,True,False,0,True,1,1,3,False,Thriving
+6,False,3,3,3.1,0,False,10,True,True,False,4,False,4,5,4,False,Balanced
+5,False,3,3,1.5,0,False,4,True,False,False,4,False,1,3,5,True,Critical
+8,False,5,1,2.1,1,True,3,False,False,True,12,True,3,3,2,False,Thriving
+7,True,4,4,1.6,0,True,6,True,False,False,0,False,1,3,4,False,Feeling Down
+7,False,5,2,0.6,1,False,5,True,True,False,12,True,5,3,4,False,Thriving
+4,False,2,2,0.5,0,False,5,True,False,False,12,True,3,2,3,False,Feeling Down
+6,True,4,4,1.4,1,True,2,True,True,False,2,True,1,2,5,False,Feeling Down
+8,True,2,1,0.7,2,False,9,False,False,False,12,False,1,2,5,False,Feeling Down
+7,False,4,2,1.6,1,False,8,True,True,False,7,True,2,5,5,False,Cheerful
+7,True,3,2,1.9,1,False,5,False,False,False,6,True,2,1,3,False,Balanced
+6,False,5,2,2.1,0,False,9,True,False,False,7,True,2,1,2,False,Thriving
+6,False,4,1,3.1,0,True,2,False,True,False,8,True,1,4,5,False,Cheerful
+7,True,4,2,2.0,3,False,4,True,False,True,3,False,3,5,2,True,Critical
+8,False,1,1,2.1,0,False,3,True,False,False,9,False,3,1,4,False,Balanced
+9,False,4,1,1.9,1,True,9,True,False,False,12,False,3,3,5,False,Cheerful
+7,True,2,2,2.0,2,True,10,False,False,True,10,False,3,3,4,False,Feeling Down
+8,True,3,1,3.2,2,False,8,True,False,False,8,False,3,4,3,False,Balanced
+7,False,5,2,2.4,3,False,8,False,False,False,9,True,2,1,4,False,Thriving
+9,True,5,1,3.2,2,True,3,False,True,False,4,True,3,2,4,False,Thriving
+6,False,5,4,3.4,0,True,7,False,True,True,4,False,4,2,4,False,Feeling Down
+6,False,3,1,3.0,2,True,9,False,True,True,5,True,2,2,5,False,Balanced
+8,False,4,1,0.8,0,False,4,False,True,False,11,False,2,2,3,False,Cheerful
+9,False,5,1,3.5,1,False,9,True,True,False,4,False,1,4,2,False,Thriving
+8,False,3,2,1.7,0,False,3,False,True,True,4,False,3,1,5,False,Balanced
+5,False,4,3,1.8,0,True,9,True,False,False,4,True,2,3,5,False,Cheerful
+6,True,5,3,3.3,0,True,10,False,False,False,5,False,2,3,5,False,Thriving
+7,False,3,2,2.7,3,True,6,True,False,True,8,True,1,4,5,False,Balanced
+7,False,4,1,2.3,0,False,10,False,False,True,5,True,3,1,4,False,Cheerful
+9,False,3,3,2.1,1,True,4,False,True,False,2,True,4,4,3,False,Balanced
+6,False,3,2,2.4,3,True,3,True,True,True,0,False,2,1,5,False,Balanced
+8,False,2,1,1.9,0,True,4,False,False,False,6,True,2,5,4,False,Feeling Down
+7,False,3,3,3.1,1,False,8,True,False,False,2,False,2,4,3,False,Balanced
+5,False,5,4,0.6,1,True,9,True,True,False,8,True,3,1,4,False,Feeling Down
+7,True,3,1,1.5,0,True,9,True,True,False,11,False,1,2,2,False,Balanced
+6,False,3,3,1.0,2,False,4,False,False,False,10,True,1,4,3,False,Balanced
+8,False,3,4,2.8,2,True,8,False,False,True,4,False,1,5,4,False,Feeling Down
+6,False,3,1,3.1,1,True,6,False,True,False,0,False,1,4,3,False,Balanced
+7,False,4,1,2.4,0,True,8,False,True,False,3,True,2,3,3,False,Cheerful
+7,False,4,3,2.7,1,True,5,True,False,False,11,True,2,3,2,False,Cheerful
+8,False,2,2,2.4,2,True,4,False,True,False,0,False,5,3,5,False,Feeling Down
+7,True,3,1,1.5,0,False,3,False,True,False,0,False,4,2,2,False,Balanced
+7,False,4,3,2.3,1,True,10,False,False,False,0,True,3,4,4,False,Cheerful
+7,False,5,5,2.4,0,True,6,True,True,False,9,False,3,3,4,False,Feeling Down
+8,False,5,2,0.7,2,False,8,False,False,False,2,False,2,3,1,False,Thriving
+8,False,3,2,1.4,2,True,5,False,True,False,3,True,4,4,1,False,Balanced
+7,False,3,1,3.1,0,True,4,True,False,False,7,True,3,4,3,False,Balanced
+9,False,4,2,1.6,2,True,3,True,False,False,6,False,3,4,2,False,Cheerful
+9,False,3,5,1.4,1,True,3,True,False,False,5,False,1,2,3,False,Feeling Down
+6,False,3,5,2.8,0,False,10,True,True,False,2,True,1,4,4,False,Feeling Down
+7,True,5,3,2.2,1,True,8,True,True,False,3,True,4,1,4,False,Thriving
+6,False,3,1,2.0,1,False,7,True,False,False,9,False,3,1,4,False,Balanced
+7,False,5,3,1.0,2,True,9,False,True,False,7,True,3,3,3,False,Thriving
+7,True,2,3,2.3,0,True,9,True,False,False,7,False,3,3,4,False,Feeling Down
+9,False,5,1,0.9,1,True,10,False,False,False,8,False,3,2,5,False,Thriving
+7,False,4,2,2.4,0,True,10,False,True,False,7,False,2,3,3,False,Cheerful
+4,True,2,3,1.7,1,False,9,True,True,False,12,False,2,2,4,False,Feeling Down
+8,True,5,4,0.9,3,False,6,False,True,False,12,False,2,2,4,False,Feeling Down
+8,False,3,2,3.1,0,False,5,False,False,False,4,False,4,5,3,False,Balanced
+8,False,3,3,3.3,2,False,9,True,True,False,3,True,4,1,3,False,Balanced
+7,False,4,3,0.7,3,False,7,True,True,True,11,False,3,1,5,False,Cheerful
+6,False,5,1,1.9,0,False,10,False,False,False,0,True,3,3,3,False,Thriving
+8,False,3,2,1.6,0,True,5,True,True,False,0,False,1,2,2,False,Balanced
+7,False,3,3,3.3,1,True,5,True,True,False,7,False,2,2,2,False,Balanced
+9,True,2,1,1.3,1,True,8,False,False,True,10,True,4,1,4,False,Feeling Down
+5,False,4,4,1.4,1,False,5,False,True,False,3,False,1,4,4,False,Feeling Down
+8,True,3,1,0.8,1,False,9,False,True,False,0,True,3,2,2,False,Balanced
+5,False,3,3,3.3,1,True,9,False,True,True,12,False,4,1,3,False,Balanced
+7,True,3,1,1.5,2,True,9,True,True,False,8,True,1,5,5,False,Balanced
+7,False,1,3,1.3,0,False,8,True,False,False,4,False,4,2,2,False,Balanced
+8,False,3,3,2.5,0,True,4,True,True,True,8,False,5,3,4,False,Balanced
+6,False,3,5,2.8,1,True,10,False,True,True,1,False,1,1,3,False,Feeling Down
+8,False,4,1,3.1,2,False,4,False,True,False,9,True,2,3,2,False,Cheerful
+5,False,3,3,3.3,2,True,9,True,True,False,4,True,2,4,2,False,Balanced
+6,False,2,4,3.3,0,False,10,False,True,False,5,False,3,2,4,False,Critical
+8,False,2,1,2.8,1,True,2,False,True,False,9,True,3,3,2,False,Feeling Down
+7,True,5,2,1.6,2,True,10,True,True,False,6,True,3,4,4,False,Thriving
+9,False,3,4,1.4,2,True,7,False,False,False,11,True,3,1,3,False,Feeling Down
+8,True,5,1,2.7,2,True,4,False,False,True,8,True,2,1,3,False,Thriving
+4,False,3,2,3.1,2,True,8,False,False,False,1,True,4,3,1,False,Balanced
+8,False,5,4,2.1,2,False,10,True,False,True,0,False,3,3,3,False,Feeling Down
+7,False,4,2,2.9,2,True,2,False,True,False,0,False,2,2,4,False,Cheerful
+4,False,3,2,1.3,1,True,9,False,False,True,1,False,3,4,3,False,Balanced
+6,True,3,1,2.6,3,True,5,False,False,False,11,False,4,2,4,False,Balanced
+7,False,3,2,0.8,0,False,6,True,True,False,6,True,3,3,5,False,Balanced
+6,False,3,1,1.1,0,False,7,False,True,False,4,True,1,2,2,False,Balanced
+7,True,3,4,2.5,1,True,4,False,False,True,6,True,1,2,2,False,Feeling Down
+6,False,4,4,0.7,0,True,4,True,True,False,11,False,1,1,3,False,Feeling Down
+7,True,4,3,2.2,1,True,9,False,True,True,9,True,1,3,3,False,Cheerful
+6,False,5,1,2.0,1,True,7,True,True,False,10,True,3,4,5,False,Thriving
+7,True,3,2,1.7,0,True,2,True,False,True,5,False,5,1,2,False,Balanced
+5,False,4,2,0.8,1,True,3,False,True,False,10,True,4,4,3,False,Cheerful
+8,True,5,2,2.1,3,True,2,False,False,False,2,False,5,2,5,False,Thriving
+7,False,4,3,3.0,2,True,6,False,True,False,0,False,3,4,5,False,Cheerful
+5,False,4,4,1.0,0,False,2,True,True,True,0,True,1,1,4,False,Feeling Down
+4,False,3,4,1.3,2,False,2,True,False,True,3,True,2,4,4,False,Feeling Down
+8,False,3,2,3.3,1,False,4,True,False,False,8,False,3,5,5,False,Balanced
+6,False,4,5,1.3,2,True,3,True,True,False,4,True,2,3,5,False,Feeling Down
+8,False,5,2,0.5,0,False,4,False,True,False,11,False,4,1,5,False,Thriving
+7,False,1,2,3.1,1,True,5,True,True,False,10,False,1,3,5,False,Balanced
+8,False,3,3,1.1,0,False,9,True,True,False,6,True,5,4,3,False,Balanced
+6,False,5,4,2.7,2,False,7,False,True,False,10,False,1,2,2,False,Feeling Down
+5,True,4,1,1.7,1,False,4,False,False,True,7,True,1,3,4,False,Cheerful
+8,False,1,3,2.5,2,True,5,True,True,False,5,False,4,1,3,False,Balanced
+7,False,4,1,1.3,1,False,3,True,False,False,4,True,3,3,4,False,Cheerful
+5,False,4,3,1.7,0,False,3,True,False,False,1,False,1,2,3,False,Cheerful
+7,False,4,2,3.3,1,True,4,True,False,True,5,True,2,1,2,False,Cheerful
+8,False,1,2,1.8,2,True,8,False,True,False,7,False,1,1,3,False,Balanced
+6,False,1,3,2.9,3,False,4,False,False,False,3,False,2,3,2,False,Balanced
+7,False,5,1,3.4,2,False,4,True,False,False,3,True,3,2,2,False,Thriving
+6,True,4,1,2.6,0,False,8,False,True,False,11,False,3,3,5,False,Cheerful
+4,True,5,2,0.5,1,True,8,False,True,False,11,False,5,1,4,False,Thriving
+5,True,5,2,0.8,0,True,10,True,False,False,8,False,3,1,3,False,Thriving
+6,False,2,1,3.3,1,False,8,False,True,False,7,False,4,4,3,False,Feeling Down
+8,True,5,5,1.4,3,True,9,True,False,False,7,True,2,2,3,False,Feeling Down
+7,False,4,2,3.4,1,False,7,True,False,True,10,True,1,2,4,False,Cheerful
+7,True,3,2,2.9,3,True,8,True,True,True,0,False,1,3,5,False,Balanced
+6,False,3,1,2.5,3,True,3,True,True,True,0,False,2,1,1,False,Balanced
+6,True,4,1,2.7,1,True,2,True,True,True,8,False,3,4,3,False,Cheerful
+7,False,3,1,2.5,3,False,9,False,False,True,3,False,1,4,4,False,Balanced
+7,True,4,1,0.9,2,False,5,False,False,False,6,False,3,3,3,False,Cheerful
+6,True,4,3,2.2,1,False,5,True,False,False,6,True,2,3,2,False,Cheerful
+5,True,4,3,3.3,1,False,8,True,True,False,3,False,5,2,3,False,Cheerful
+6,False,3,3,3.4,0,False,2,True,True,False,7,True,5,4,4,False,Balanced
+6,False,3,3,0.8,3,False,3,True,False,False,0,True,2,2,4,False,Balanced
+4,False,3,3,0.6,1,True,5,True,True,False,5,True,4,3,4,False,Balanced
+7,False,3,1,0.9,1,True,9,True,True,False,0,False,2,4,5,False,Balanced
+8,False,3,1,1.3,1,True,10,False,True,False,1,False,2,3,3,False,Balanced
+6,False,3,1,3.4,1,True,9,False,False,False,11,False,2,1,5,False,Balanced
+7,False,3,1,2.3,2,True,10,True,True,False,4,False,2,3,3,False,Balanced
+8,False,3,3,1.1,1,True,5,False,True,True,2,False,5,1,3,False,Balanced
+6,False,4,1,3.4,1,True,4,False,False,False,9,True,4,1,2,False,Cheerful
+8,False,5,3,0.7,3,False,9,False,False,False,3,True,5,5,4,False,Thriving
+8,False,3,2,2.1,1,True,5,False,False,False,2,False,2,3,4,False,Balanced
+8,False,3,3,2.9,1,True,10,False,False,False,2,True,3,1,4,False,Balanced
+9,False,4,3,3.1,4,True,4,False,True,False,7,True,4,2,4,False,Cheerful
+9,True,5,3,2.4,2,True,8,True,True,False,8,False,2,3,5,False,Thriving
+6,False,3,2,1.8,1,True,9,False,True,False,0,True,1,1,4,False,Balanced
+7,False,5,5,1.3,0,True,7,False,True,True,3,False,1,4,4,False,Feeling Down
+6,True,4,2,1.0,1,True,2,True,True,False,7,False,3,2,5,False,Cheerful
+7,False,2,3,3.1,1,False,7,False,True,False,7,False,3,1,2,False,Feeling Down
+9,False,5,2,0.7,0,True,5,True,True,True,2,True,3,1,5,False,Thriving
+4,False,3,3,1.8,1,True,4,False,True,False,3,False,1,3,3,False,Balanced
+8,False,5,4,3.1,0,False,7,False,False,False,12,True,2,4,3,False,Feeling Down
+7,False,3,1,2.8,1,False,5,False,False,False,0,True,2,4,5,False,Balanced
+6,False,3,1,1.5,0,True,2,False,False,True,8,False,3,4,5,False,Balanced
+5,True,5,1,2.0,2,False,8,False,False,False,11,False,1,2,2,False,Thriving
+8,False,4,3,2.9,1,True,9,True,True,False,6,False,2,3,3,False,Cheerful
+6,True,5,2,0.9,0,True,3,False,False,False,8,True,3,2,2,False,Thriving
+7,False,5,2,2.1,1,True,2,True,False,True,0,True,2,2,3,False,Thriving
+6,False,3,2,0.7,3,False,7,False,True,False,3,False,1,2,3,False,Balanced
+7,False,4,2,2.7,2,True,2,True,True,False,12,True,3,3,4,False,Cheerful
+7,False,3,1,1.5,1,True,9,False,False,False,8,False,4,3,4,False,Balanced
+7,False,4,3,2.6,4,False,8,False,False,False,7,False,4,3,3,False,Cheerful
+8,False,4,3,2.0,0,True,2,False,False,False,8,True,3,3,2,False,Cheerful
+7,False,3,2,3.5,0,True,9,False,False,True,6,True,2,5,2,False,Balanced
+7,True,2,2,2.4,1,True,5,True,True,False,9,True,2,1,4,False,Feeling Down
+8,False,5,2,0.8,1,False,3,False,True,False,1,True,1,3,2,False,Thriving
+8,False,3,2,2.4,1,True,4,False,True,False,9,True,4,3,4,False,Balanced
+5,False,4,3,1.6,0,False,8,True,False,False,11,False,1,5,2,False,Cheerful
+8,False,5,4,2.3,2,False,6,True,False,False,3,True,5,3,3,False,Feeling Down
+7,False,1,2,2.4,1,False,3,False,True,False,12,False,2,3,4,False,Balanced
+8,False,3,3,1.0,1,False,7,False,False,False,10,True,3,4,5,False,Balanced
+9,False,3,3,2.1,0,True,2,False,True,True,11,False,3,3,4,False,Balanced
+6,False,2,2,3.1,2,True,7,False,True,True,7,False,2,4,4,False,Feeling Down
+8,True,3,3,1.0,2,True,3,True,False,False,12,True,1,3,4,False,Balanced
+7,False,2,1,1.0,2,False,7,True,True,False,8,False,3,3,4,False,Feeling Down
+4,True,2,4,1.7,0,True,2,True,True,False,12,False,3,1,4,False,Critical
+7,True,3,2,1.7,1,True,3,False,True,False,10,True,4,2,2,False,Balanced
+7,False,5,2,1.8,0,True,9,True,True,False,5,False,4,5,3,False,Thriving
+7,True,3,1,1.2,1,True,7,False,True,False,0,True,3,3,3,False,Balanced
+8,False,4,3,3.2,1,True,10,False,True,False,9,False,2,5,4,False,Cheerful
+5,True,2,1,3.3,1,True,8,False,True,False,7,False,4,4,4,False,Feeling Down
+6,False,3,3,2.3,2,True,6,True,False,False,9,True,1,2,2,False,Balanced
+8,False,4,2,1.9,0,False,2,True,False,False,7,False,3,2,3,False,Cheerful
+7,False,2,4,3.4,2,True,6,True,False,False,4,False,4,5,3,False,Critical
+8,False,5,4,3.2,1,False,5,False,True,False,10,False,3,5,5,False,Feeling Down
+6,False,4,3,0.7,1,False,4,False,False,False,5,False,5,1,5,False,Cheerful
+6,False,5,3,2.4,1,True,9,True,False,False,1,False,3,1,5,False,Thriving
+7,False,2,3,3.0,4,True,3,False,True,False,7,False,4,2,5,False,Feeling Down
+9,False,5,4,1.0,1,True,2,True,True,True,7,False,4,1,5,False,Feeling Down
+7,True,3,4,2.3,1,True,7,False,True,False,3,True,4,1,3,False,Feeling Down
+6,False,2,2,1.2,1,True,4,True,False,False,11,False,3,2,4,False,Feeling Down
+6,False,4,4,1.2,1,True,9,True,True,False,12,True,2,2,5,False,Feeling Down
+7,True,4,3,2.0,3,False,5,True,False,False,12,False,1,1,5,False,Cheerful
+8,False,3,2,1.2,2,True,9,True,False,False,12,True,2,2,4,False,Balanced
+8,True,3,3,1.5,0,False,3,False,False,False,9,True,1,4,2,False,Balanced
+6,True,5,2,1.0,2,False,7,True,True,False,7,True,2,2,4,False,Thriving
+7,False,3,1,1.8,1,False,2,False,True,False,11,True,1,4,4,False,Balanced
+6,False,3,5,1.9,2,True,4,False,False,False,11,False,2,3,4,False,Feeling Down
+8,False,4,1,1.3,2,True,4,False,False,True,5,True,3,2,3,False,Cheerful
+7,False,3,2,1.5,1,False,10,True,True,True,6,True,3,2,2,False,Balanced
+6,True,4,1,3.3,1,False,10,True,False,False,5,True,3,3,3,False,Cheerful
+7,False,3,2,3.0,1,False,9,False,True,False,8,False,3,4,4,False,Balanced
+4,False,5,1,3.3,3,True,2,False,True,False,0,True,2,3,4,False,Thriving
+6,True,3,1,1.7,2,True,7,True,True,False,4,False,4,4,5,False,Balanced
+6,False,2,3,3.4,3,True,10,True,False,False,1,True,1,3,3,False,Feeling Down
+8,False,4,2,1.3,0,False,6,False,True,True,0,False,5,5,4,False,Cheerful
+4,False,4,3,2.2,2,False,6,True,True,False,4,True,2,1,4,False,Cheerful
+7,False,5,3,1.8,2,True,3,True,False,False,2,False,3,3,4,False,Thriving
+6,True,3,4,2.0,0,False,8,False,True,False,3,True,4,2,5,False,Feeling Down
+4,False,4,3,3.0,2,True,5,True,True,False,11,True,4,2,5,False,Cheerful
+9,False,5,4,2.9,1,True,10,True,True,True,12,False,1,2,4,False,Feeling Down
+8,False,4,1,1.5,2,True,8,False,True,False,10,False,1,3,4,False,Cheerful
+5,False,4,2,2.3,2,True,10,False,True,False,3,True,2,3,4,False,Cheerful
+7,True,3,2,2.6,1,True,6,True,True,True,2,False,4,3,2,False,Balanced
+6,True,5,2,2.1,1,True,9,True,True,True,2,False,1,1,3,False,Thriving
+8,False,2,1,1.6,0,False,6,False,True,False,2,False,3,4,4,False,Feeling Down
+7,False,4,4,1.6,0,False,2,False,False,False,9,False,5,1,2,False,Feeling Down
+7,True,4,2,1.6,1,True,7,True,True,False,10,True,2,4,5,False,Cheerful
+7,False,3,1,3.4,2,False,4,True,True,False,11,True,3,2,4,False,Balanced
+8,True,5,2,0.8,3,False,5,True,False,True,0,True,1,1,2,False,Thriving
+7,False,2,2,2.1,2,True,3,True,True,False,7,False,4,3,3,False,Feeling Down
+6,False,3,1,2.6,1,True,9,False,True,False,4,False,1,2,2,False,Balanced
+7,True,3,5,3.1,0,False,10,True,False,False,11,False,1,1,4,False,Feeling Down
+7,False,2,2,3.3,1,False,4,False,True,False,9,False,2,1,2,False,Feeling Down
+8,False,4,3,1.8,2,False,8,False,True,False,5,True,4,2,3,False,Cheerful
+4,False,4,5,1.7,2,True,2,False,False,True,11,True,4,3,3,False,Feeling Down
+8,True,4,3,2.4,0,False,8,False,False,False,9,True,2,4,4,False,Cheerful
+7,False,3,2,3.0,1,True,6,False,False,False,9,True,3,2,3,False,Balanced
+7,False,2,5,2.7,2,True,10,False,False,False,6,False,2,4,4,False,Critical
+6,True,5,1,3.4,0,False,8,True,False,False,0,False,3,4,2,False,Thriving
+6,False,1,1,1.5,2,True,9,False,False,False,9,False,1,3,4,False,Balanced
+8,False,1,3,2.7,1,True,4,False,False,False,10,True,3,3,3,True,Critical
+7,False,5,3,3.3,2,True,2,False,True,True,2,False,5,2,4,False,Thriving
+7,True,4,4,1.9,0,True,10,False,False,False,3,False,2,2,4,False,Feeling Down
+8,False,5,1,1.8,1,False,5,False,True,False,1,True,2,3,4,False,Thriving
+7,False,4,1,3.2,2,True,5,True,False,False,8,True,4,1,3,False,Cheerful
+7,False,2,4,1.3,1,True,4,True,True,False,12,False,5,3,1,False,Critical
+6,False,4,4,1.9,1,True,5,True,False,True,6,True,3,1,5,False,Feeling Down
+5,False,4,1,1.3,0,True,4,False,True,True,6,False,3,3,2,False,Cheerful
+6,False,2,4,2.2,0,True,6,True,False,False,6,True,3,4,4,False,Critical
+8,True,3,1,0.6,3,True,7,True,True,False,9,False,2,4,5,False,Balanced
+8,False,4,2,3.3,0,False,6,True,False,False,2,True,5,2,2,False,Cheerful
+8,False,4,1,1.6,0,True,4,True,True,False,6,True,4,2,3,False,Cheerful
+7,False,4,1,0.8,1,False,3,False,False,False,7,True,2,3,5,False,Cheerful
+7,False,4,1,2.8,1,True,6,False,False,False,3,False,1,3,3,False,Cheerful
+6,False,3,3,2.6,0,True,6,False,True,False,11,False,1,3,4,False,Balanced
+7,True,5,1,2.7,0,True,6,True,True,False,0,True,3,2,3,False,Thriving
+4,False,5,1,0.7,0,True,5,False,True,False,9,False,2,1,4,False,Thriving
+6,False,5,2,3.0,1,False,6,True,True,False,9,False,3,3,1,False,Thriving
+5,False,5,2,2.3,1,True,6,False,True,False,10,True,4,3,2,False,Thriving
+8,True,3,2,2.5,1,True,4,False,True,False,3,False,2,3,4,False,Balanced
+8,False,2,2,1.8,1,False,9,False,True,False,12,True,2,1,3,False,Feeling Down
+5,True,4,2,2.1,1,False,2,True,True,False,0,False,1,3,3,False,Cheerful
+5,False,3,3,2.3,1,False,6,False,True,False,7,True,2,3,4,False,Balanced
+7,False,2,3,3.0,2,True,5,False,False,False,7,True,4,2,4,False,Feeling Down
+5,False,4,3,0.7,0,False,9,True,False,True,2,True,3,2,3,False,Cheerful
+6,False,4,1,1.5,2,True,8,False,True,False,4,True,2,2,5,False,Cheerful
+9,False,4,2,2.3,2,True,10,False,False,True,8,False,4,2,1,False,Cheerful
+6,False,5,4,3.4,2,False,9,False,False,False,10,False,1,3,2,False,Feeling Down
+6,False,4,1,1.5,1,False,9,False,False,False,6,True,1,5,4,False,Cheerful
+6,True,4,1,2.9,1,False,2,False,True,True,9,True,2,3,2,False,Cheerful
+8,False,4,1,3.0,1,False,3,True,True,False,7,False,5,5,5,False,Cheerful
+7,True,3,2,0.7,2,False,6,False,False,False,11,False,2,3,1,False,Balanced
+9,True,3,2,3.4,2,True,4,False,True,True,4,False,3,3,3,False,Balanced
+4,False,5,2,1.3,3,True,3,False,False,False,12,False,3,3,4,False,Thriving
+6,False,5,1,3.4,1,True,6,True,True,False,1,False,3,2,4,False,Thriving
+8,True,5,3,2.7,1,False,4,False,True,False,6,False,2,3,4,False,Thriving
+5,False,4,3,1.3,0,True,6,True,False,False,5,True,1,4,4,False,Cheerful
+7,False,3,2,2.4,2,True,10,True,True,True,7,True,3,2,4,False,Balanced
+5,True,5,4,2.2,0,True,8,False,False,False,12,False,2,3,3,False,Feeling Down
+8,True,3,2,1.6,3,True,4,False,True,False,8,True,3,3,4,False,Balanced
+7,True,4,2,1.1,1,False,2,True,False,False,1,True,1,3,2,False,Cheerful
+8,False,4,5,1.6,2,False,2,True,True,False,4,True,4,3,3,False,Feeling Down
+7,False,4,3,2.9,1,True,6,True,False,False,3,False,1,3,3,False,Cheerful
+7,False,4,3,0.8,3,True,8,False,True,False,9,True,1,5,2,False,Cheerful
+7,False,3,1,0.6,0,False,4,True,True,False,9,True,2,2,2,False,Balanced
+8,False,5,3,1.6,2,True,8,True,False,False,11,False,2,1,3,False,Thriving
+6,False,4,1,0.9,1,False,5,False,True,True,3,False,2,4,4,False,Cheerful
+9,False,5,2,1.7,1,False,10,True,True,False,3,False,1,5,4,False,Thriving
+7,False,3,3,0.7,0,False,2,False,False,True,12,False,4,3,4,False,Balanced
+7,False,5,4,0.5,2,True,7,False,True,False,11,False,3,3,4,False,Feeling Down
+6,False,4,3,1.8,2,False,10,True,False,False,3,False,1,2,2,False,Cheerful
+7,True,2,3,0.7,0,True,10,True,True,False,5,False,2,4,2,False,Feeling Down
+8,False,4,2,3.2,1,False,9,False,True,False,7,False,4,3,2,False,Cheerful
+7,False,3,3,2.8,1,False,7,True,False,True,8,True,1,1,4,False,Balanced
+6,False,1,3,2.7,1,False,10,True,False,False,5,False,2,3,4,False,Balanced
+6,True,3,1,0.6,2,False,4,True,True,False,5,False,2,3,3,False,Balanced
+7,False,2,3,2.6,1,True,9,True,False,True,2,False,4,3,3,False,Feeling Down
+6,True,5,1,1.9,0,False,3,True,True,False,6,True,1,2,4,False,Thriving
+8,False,3,4,2.8,1,True,2,False,True,True,12,False,2,1,4,False,Feeling Down
+8,False,3,1,2.6,0,False,7,True,True,False,12,True,1,2,2,False,Balanced
+7,False,5,5,0.9,1,True,3,True,True,False,5,False,3,2,2,False,Feeling Down
+5,False,3,2,1.1,1,True,6,False,False,False,8,True,3,2,4,False,Balanced
+7,True,4,2,2.1,3,False,5,False,False,False,0,False,2,4,3,False,Cheerful
+8,False,3,1,3.4,2,False,7,True,True,False,9,False,3,3,3,False,Balanced
+7,True,3,4,2.1,1,True,4,False,True,False,3,False,1,3,4,False,Feeling Down
+8,False,4,1,2.2,1,True,3,False,True,False,1,True,3,2,3,False,Cheerful
+8,False,3,2,1.1,1,True,5,False,False,False,5,True,3,2,3,False,Balanced
+8,True,3,2,2.1,0,False,10,True,True,False,4,False,2,2,4,False,Balanced
+5,True,4,4,3.2,0,True,4,True,True,False,11,False,3,3,3,False,Feeling Down
+9,True,3,3,2.3,1,True,3,False,False,False,10,False,2,3,4,False,Balanced
+6,False,2,1,0.6,1,True,10,False,False,False,9,True,2,3,3,False,Feeling Down
+8,False,4,3,3.3,1,False,8,False,True,True,7,True,4,2,3,False,Cheerful
+7,False,1,1,2.3,0,False,8,False,True,True,6,False,2,3,2,False,Balanced
+6,False,3,1,1.1,2,False,2,True,True,False,0,True,1,4,5,False,Balanced
+8,True,4,3,1.1,0,True,2,False,False,False,3,True,1,3,3,False,Cheerful
+7,True,3,4,2.5,1,True,5,True,False,False,2,True,4,1,4,False,Feeling Down
+6,True,4,3,1.4,0,False,7,True,True,False,8,True,5,3,1,False,Cheerful
+9,True,5,1,0.6,1,True,7,True,False,False,3,False,2,3,3,False,Thriving
+5,False,5,1,1.2,1,True,7,True,False,True,10,True,4,3,2,False,Thriving
+6,False,5,3,2.9,3,False,2,True,True,False,6,True,2,4,4,False,Thriving
+8,False,2,2,3.1,2,False,6,False,True,False,8,True,2,1,2,False,Feeling Down
+8,False,5,3,2.6,2,True,3,True,False,False,7,False,1,2,2,False,Thriving
+7,False,3,4,2.7,2,False,8,False,True,False,1,True,4,2,2,False,Feeling Down
+9,False,3,3,2.7,0,False,2,True,False,False,3,True,3,3,3,False,Balanced
+7,True,3,4,2.1,1,True,9,False,False,False,12,False,4,2,4,False,Feeling Down
+7,False,5,2,2.6,2,True,5,False,True,False,12,False,3,3,2,False,Thriving
+5,False,3,4,3.2,0,False,9,True,False,True,7,True,3,5,3,False,Feeling Down
+7,False,2,1,3.1,1,False,4,True,False,False,10,True,2,3,4,False,Feeling Down
+8,True,3,4,1.3,1,True,10,False,False,True,6,False,5,3,3,False,Feeling Down
+7,True,3,2,0.7,2,True,5,False,True,False,10,False,1,3,2,False,Balanced
+9,False,3,3,1.1,0,False,9,True,False,False,10,False,2,3,5,False,Balanced
+5,True,5,2,0.8,1,False,5,False,True,True,0,False,4,1,4,False,Thriving
+8,False,5,3,3.3,1,True,6,False,True,True,1,True,3,4,5,False,Thriving
+7,False,1,4,1.0,0,True,6,True,True,False,2,True,1,2,3,False,Critical
+6,False,5,3,0.9,2,False,7,True,True,False,7,False,3,4,1,False,Thriving
+8,False,4,2,1.7,1,True,8,True,False,False,1,True,1,5,4,False,Cheerful
+5,False,4,3,2.4,0,True,8,True,False,False,3,False,3,5,5,False,Cheerful
+7,True,1,3,1.3,0,True,9,False,True,False,3,True,3,2,5,False,Balanced
+7,False,3,2,3.0,0,True,9,True,True,True,8,False,3,4,5,False,Balanced
+8,False,5,4,0.6,2,False,8,True,True,False,0,False,4,3,5,False,Feeling Down
+7,False,4,4,3.3,0,True,7,False,True,False,12,True,1,3,5,False,Feeling Down
+8,False,5,1,1.2,1,False,4,False,False,False,1,False,1,1,3,False,Thriving
+7,True,3,4,0.8,3,False,5,True,False,False,5,True,2,3,4,False,Feeling Down
+5,False,3,1,0.7,1,False,2,False,False,False,9,False,3,3,1,False,Balanced
+8,False,3,2,3.3,2,False,2,False,False,False,8,True,2,4,4,False,Balanced
+9,True,2,4,0.7,0,False,4,False,False,False,7,False,2,4,3,False,Critical
+6,True,2,1,2.5,1,True,2,True,True,False,10,True,1,4,4,False,Feeling Down
+8,False,4,2,1.0,0,False,10,True,True,False,1,True,5,2,4,False,Cheerful
+7,True,3,1,2.8,1,True,2,False,True,False,9,True,1,2,2,False,Balanced
+6,True,4,1,1.1,2,False,2,False,True,False,8,False,1,3,4,False,Cheerful
+6,True,3,5,0.9,0,False,6,False,False,False,5,False,2,1,3,False,Feeling Down
+7,True,3,1,1.4,1,False,3,True,False,True,7,False,3,3,4,False,Balanced
+6,True,4,1,2.5,2,True,8,True,False,False,2,False,4,1,4,False,Cheerful
+6,False,3,4,1.0,1,False,5,False,False,False,2,True,5,2,4,False,Feeling Down
+8,True,5,2,1.0,1,True,8,False,False,False,7,False,3,2,4,False,Thriving
+6,True,3,5,0.7,2,True,2,False,True,False,5,False,1,4,3,False,Feeling Down
+5,True,3,2,1.9,0,True,6,True,True,False,8,False,2,4,3,False,Balanced
+7,False,2,4,2.4,1,True,6,False,False,True,9,False,3,5,5,False,Critical
+5,True,2,4,0.8,0,True,9,True,True,False,9,False,4,1,5,False,Critical
+8,False,3,2,2.0,0,False,8,False,False,False,7,True,4,2,4,False,Balanced
+8,False,3,4,1.5,2,True,3,True,False,False,12,True,4,3,4,False,Feeling Down
+6,False,3,1,1.0,2,True,10,True,False,False,9,True,2,3,5,False,Balanced
+8,True,2,1,3.4,2,True,7,True,False,False,7,False,3,4,3,False,Feeling Down
+8,False,5,4,1.4,1,True,7,True,False,True,1,True,3,3,2,False,Feeling Down
+7,True,4,1,1.5,0,True,9,False,False,False,2,True,5,1,2,False,Cheerful
+5,False,5,2,1.9,0,True,7,False,False,False,9,True,4,2,4,False,Thriving
+9,False,5,3,1.8,2,False,7,True,False,False,7,True,1,3,3,False,Thriving
+6,False,4,3,1.5,2,True,9,True,True,True,10,True,4,5,4,False,Cheerful
+7,False,4,1,1.2,0,False,4,False,True,True,10,False,2,1,2,False,Cheerful
+6,False,3,1,0.6,2,False,7,False,False,False,12,False,2,2,5,False,Balanced
+8,False,4,3,1.1,2,True,2,True,True,True,10,True,1,2,1,False,Cheerful
+7,False,4,1,3.3,1,True,4,True,True,False,2,False,2,2,4,False,Cheerful
+6,False,1,2,1.0,1,True,10,True,True,False,8,False,1,2,3,False,Balanced
+5,True,4,2,1.7,2,False,10,False,True,False,11,True,3,2,3,False,Cheerful
+7,False,3,4,2.1,0,False,3,False,False,False,11,False,2,2,2,False,Feeling Down
+7,False,3,5,2.1,1,False,2,True,False,False,11,True,1,1,5,False,Feeling Down
+7,True,5,2,2.4,1,False,4,False,True,False,5,False,4,4,3,False,Thriving
+6,True,4,2,3.0,0,False,7,False,True,True,10,False,3,2,2,False,Cheerful
+5,False,4,2,1.2,2,True,8,True,True,True,10,False,4,3,4,False,Cheerful
+9,False,5,2,1.1,1,False,9,False,True,True,2,False,2,3,2,False,Thriving
+9,False,3,2,1.2,4,False,5,False,True,False,10,True,5,1,2,False,Balanced
+8,True,1,5,1.0,2,False,5,True,True,True,7,False,2,2,3,False,Critical
+8,True,3,4,2.8,3,False,3,False,True,False,8,True,2,3,3,False,Feeling Down
+5,False,4,3,2.2,2,True,2,False,True,False,6,True,3,3,2,False,Cheerful
+8,False,3,2,3.4,2,True,6,True,True,True,6,True,3,4,4,False,Balanced
+9,False,3,3,0.9,1,False,7,True,True,True,1,False,5,1,4,False,Balanced
+5,False,5,1,2.6,1,False,7,True,False,False,7,False,2,3,4,False,Thriving
+4,False,1,4,1.2,0,True,3,False,False,False,0,False,3,2,3,False,Critical
+6,True,5,2,2.0,2,True,9,False,True,False,11,True,1,5,5,False,Thriving
+7,False,4,2,1.0,1,True,10,True,False,False,0,False,3,4,2,False,Cheerful
+7,False,3,2,2.7,1,True,10,True,True,False,12,False,1,2,5,False,Balanced
+6,True,5,2,1.9,0,True,2,False,True,False,7,True,4,4,5,False,Thriving
+6,False,5,2,1.5,0,True,3,False,False,False,10,True,4,2,3,False,Thriving
+9,False,4,1,2.6,1,False,10,True,True,False,0,False,3,5,4,False,Cheerful
+6,False,3,4,0.9,1,False,2,False,True,True,0,True,2,1,2,False,Feeling Down
+7,True,3,3,3.5,2,True,7,False,False,True,2,False,4,1,4,False,Balanced
+6,False,3,1,3.4,2,True,4,False,True,False,12,False,2,2,4,False,Balanced
+6,False,5,2,2.3,1,True,7,False,True,False,2,True,2,2,3,False,Thriving
+8,False,5,2,2.1,3,True,4,False,True,True,4,False,3,5,3,False,Thriving
+8,False,4,4,1.8,2,False,10,True,True,False,0,True,3,3,4,False,Feeling Down
+4,False,1,2,1.4,1,False,2,True,True,False,9,True,4,3,4,False,Balanced
+6,True,2,2,3.4,1,False,5,False,False,True,11,False,2,4,5,False,Feeling Down
+6,False,5,3,2.5,2,False,7,False,False,False,6,False,2,5,3,False,Thriving
+8,False,2,2,1.2,0,True,5,False,False,False,0,True,5,1,3,False,Feeling Down
+5,False,4,1,2.9,1,False,2,True,False,False,1,False,3,4,4,False,Cheerful
+7,False,5,3,2.8,3,False,4,True,False,False,7,True,5,4,3,False,Thriving
+7,False,3,2,1.0,0,True,4,True,True,False,10,False,1,3,3,False,Balanced
+9,True,4,2,3.0,0,False,6,False,True,False,5,True,2,2,5,False,Cheerful
+4,False,4,4,2.7,1,True,3,False,True,False,3,True,3,2,3,False,Feeling Down
+7,True,3,1,0.7,1,True,9,True,True,False,9,True,4,3,2,False,Balanced
+6,False,3,1,0.9,2,True,10,False,True,False,3,True,2,4,3,False,Balanced
+6,False,3,2,0.6,2,False,9,False,True,False,10,True,2,2,4,False,Balanced
+6,False,4,1,3.0,1,True,5,False,True,False,10,False,2,4,3,False,Cheerful
+7,False,3,1,0.8,3,True,4,True,True,False,3,True,4,3,3,False,Balanced
+9,True,5,3,0.5,1,True,8,False,False,False,1,True,2,2,5,False,Thriving
+8,False,3,3,2.3,1,False,3,True,False,False,7,False,1,1,1,False,Balanced
+8,False,4,3,3.1,2,True,4,True,True,True,0,False,1,3,3,False,Cheerful
+7,False,3,3,1.8,1,False,7,False,False,False,6,True,1,5,5,False,Balanced
+7,False,4,1,2.4,1,True,10,False,False,False,3,False,4,1,2,False,Cheerful
+6,False,4,4,1.2,2,False,4,True,True,False,8,False,5,3,1,False,Feeling Down
+7,False,3,3,1.0,0,False,2,True,False,False,10,False,3,2,3,False,Balanced
+4,False,2,5,1.3,1,False,4,True,False,False,8,False,3,4,5,False,Critical
+5,False,3,4,3.3,0,False,9,True,True,False,0,False,2,3,4,False,Feeling Down
+7,False,1,2,3.0,1,True,10,True,True,False,0,True,2,4,3,False,Balanced
+7,True,5,2,2.6,1,False,9,False,False,True,0,True,3,3,4,False,Thriving
+7,False,3,2,1.2,0,True,10,True,True,True,3,True,3,1,3,False,Balanced
+9,False,3,1,3.3,2,False,9,True,False,False,4,False,1,2,5,False,Balanced
+7,False,3,1,3.2,1,False,4,True,True,False,6,False,3,5,3,False,Balanced
+9,False,4,3,1.3,1,True,7,False,False,True,12,False,2,1,4,False,Cheerful
+6,False,2,4,2.6,2,True,2,True,False,False,10,True,1,3,3,False,Critical
+6,True,5,2,2.3,2,False,8,False,True,False,3,True,2,2,2,False,Thriving
+7,False,3,2,1.9,0,False,3,True,True,False,12,True,3,1,4,False,Balanced
+7,True,4,3,1.9,3,True,4,False,False,True,4,False,5,1,3,False,Cheerful
+8,True,4,1,1.2,0,True,9,True,False,False,1,True,1,5,4,False,Cheerful
+7,False,5,1,2.7,1,True,5,True,True,False,4,False,1,2,3,False,Thriving
+8,True,5,2,0.5,0,True,8,False,True,True,4,False,2,1,3,False,Thriving
+9,False,4,1,1.6,0,False,2,False,True,False,12,True,2,3,3,False,Cheerful
+6,True,5,2,3.3,0,False,5,False,True,True,2,False,3,1,5,False,Thriving
+5,True,4,2,2.4,1,True,3,True,False,True,4,False,2,4,2,False,Cheerful
+7,True,4,4,3.3,1,True,6,True,False,False,5,False,3,2,3,False,Feeling Down
+7,False,1,1,3.2,3,True,2,False,True,False,9,True,2,3,3,False,Balanced
+6,False,3,4,0.7,4,True,6,True,False,False,1,False,4,4,5,False,Feeling Down
+6,False,5,2,2.5,1,True,3,False,True,False,8,False,2,3,5,False,Thriving
+9,True,3,3,1.9,1,False,5,True,True,False,4,False,3,2,3,False,Balanced
+7,False,3,3,0.8,1,False,8,True,False,False,5,False,2,3,4,False,Balanced
+5,False,4,3,3.1,1,True,8,True,False,False,1,True,3,2,4,False,Cheerful
+7,False,4,2,2.8,2,True,9,True,False,False,1,False,3,2,4,False,Cheerful
+8,False,3,1,2.8,2,False,6,True,False,False,3,True,2,3,5,False,Balanced
+8,False,2,2,1.3,2,False,4,True,False,False,10,False,4,4,5,False,Feeling Down
+5,False,4,1,2.5,1,True,7,True,True,False,8,False,2,4,5,False,Cheerful
+6,True,3,2,0.6,1,True,7,True,False,False,9,True,4,4,5,False,Balanced
+7,False,4,4,2.0,2,False,5,True,True,False,0,True,3,3,2,False,Feeling Down
+5,True,4,2,0.5,3,False,9,True,True,False,11,True,1,2,4,False,Cheerful
+8,False,5,4,1.2,2,True,3,True,False,False,6,False,2,1,5,False,Feeling Down
+6,False,5,4,3.3,3,True,2,True,False,False,8,True,1,2,3,False,Feeling Down
+6,True,2,1,2.7,2,False,6,False,True,False,4,False,3,3,1,False,Feeling Down
+6,True,5,2,1.8,1,False,7,True,True,False,3,True,5,5,3,False,Thriving
+9,True,5,1,1.3,3,False,7,True,True,False,3,False,5,4,2,False,Thriving
+7,True,2,2,2.5,0,False,5,False,False,False,1,True,3,5,4,False,Feeling Down
+6,False,2,1,2.2,2,False,4,False,True,False,12,False,3,5,5,False,Feeling Down
+6,True,3,1,0.8,1,True,8,False,True,False,10,False,2,4,4,False,Balanced
+5,False,5,3,2.5,2,True,9,False,False,True,11,True,1,4,4,False,Thriving
+7,False,2,2,3.3,3,False,6,False,False,True,1,False,2,3,3,False,Feeling Down
+8,False,4,2,2.3,2,False,8,False,True,True,2,True,3,5,4,False,Cheerful
+9,False,3,3,3.4,2,False,3,True,False,False,2,True,3,3,4,False,Balanced
+7,False,3,2,1.2,2,True,10,False,False,True,8,False,2,4,1,False,Balanced
+6,False,4,1,0.9,0,True,2,False,True,False,5,True,4,3,3,False,Cheerful
+5,False,2,3,1.1,0,True,5,False,False,False,0,False,4,2,3,False,Feeling Down
+7,False,3,2,3.2,1,True,10,False,False,False,1,True,1,5,4,False,Balanced
+6,False,5,3,2.2,1,True,9,True,True,False,8,False,2,3,3,False,Thriving
+9,False,4,4,1.7,2,True,9,True,False,True,9,False,1,2,2,False,Feeling Down
+7,False,1,1,0.9,0,True,7,False,False,False,8,True,2,2,5,False,Balanced
+7,False,5,1,3.1,0,False,3,True,False,True,8,False,3,3,3,False,Thriving
+5,False,2,2,1.1,2,False,10,False,True,False,8,False,1,3,4,False,Feeling Down
+5,False,3,3,3.3,1,False,10,False,True,True,8,True,4,1,3,False,Balanced
+8,False,3,3,2.2,1,True,5,True,True,True,11,True,1,5,4,False,Balanced
+6,True,2,2,2.9,0,False,9,False,True,False,6,True,5,3,3,False,Feeling Down
+7,False,5,5,2.6,1,False,10,False,True,True,8,False,2,1,1,False,Feeling Down
+5,False,5,2,3.4,1,False,10,True,True,False,4,True,4,4,3,False,Thriving
+6,False,5,2,2.3,0,True,10,False,True,True,1,True,1,4,4,False,Thriving
+7,True,5,1,3.5,3,False,6,True,False,True,12,False,3,3,5,False,Thriving
+7,False,5,3,2.0,1,True,7,False,False,False,11,False,3,3,3,False,Thriving
+7,False,4,4,2.7,2,True,5,False,True,False,7,True,4,2,3,False,Feeling Down
+7,False,5,2,1.7,1,True,9,True,False,False,8,True,2,2,4,False,Thriving
+5,False,3,4,0.8,1,True,5,False,True,False,11,False,3,3,5,False,Feeling Down
+7,False,5,4,2.4,1,True,7,False,True,True,1,True,1,4,3,False,Feeling Down
+7,False,3,1,2.1,4,True,3,True,True,False,8,False,5,2,4,False,Balanced
+7,True,4,2,1.9,1,True,6,False,True,False,10,True,1,2,3,False,Cheerful
+8,False,4,1,1.8,3,True,3,False,False,False,4,True,2,4,3,False,Cheerful
+6,False,5,1,0.7,0,False,9,True,True,True,5,False,1,4,5,False,Thriving
+8,False,5,2,0.5,0,True,8,True,False,True,1,False,1,2,5,False,Thriving
+7,False,4,1,1.3,1,True,5,True,False,False,8,True,3,2,2,False,Cheerful
+7,True,3,2,2.0,1,False,10,True,False,False,6,True,1,3,2,False,Balanced
+7,True,3,3,1.5,1,True,6,True,False,False,10,True,2,4,4,False,Balanced
+8,True,4,3,1.8,0,True,2,False,True,False,11,False,4,2,5,False,Cheerful
+8,True,4,1,1.5,2,True,3,True,False,False,2,True,1,3,4,False,Cheerful
+7,False,4,4,1.3,0,True,3,False,True,False,4,True,3,4,3,False,Feeling Down
+7,True,2,3,1.7,1,False,2,False,True,True,4,True,3,2,4,False,Feeling Down
+6,False,3,1,1.8,0,False,4,True,True,False,1,True,3,4,3,False,Balanced
+6,False,4,3,3.0,1,True,10,True,False,False,11,False,5,5,4,False,Cheerful
+6,True,5,2,2.1,2,True,9,True,True,False,11,True,1,1,4,False,Thriving
+6,True,3,2,3.1,1,False,2,False,False,False,9,False,1,2,5,False,Balanced
+6,False,4,2,1.0,2,True,6,True,True,False,10,False,3,4,3,False,Cheerful
+8,False,2,3,2.0,1,False,2,False,False,False,7,True,3,3,2,False,Feeling Down
+7,False,3,3,0.5,0,False,4,True,True,False,12,False,3,3,4,False,Balanced
+6,False,3,2,0.6,2,True,10,True,False,False,0,True,1,4,5,False,Balanced
+6,False,3,3,2.9,0,True,2,True,False,False,0,True,2,3,3,False,Balanced
+7,False,5,1,0.9,1,False,5,True,True,False,2,True,4,2,4,False,Thriving
+4,True,4,4,3.1,2,True,5,False,False,True,3,False,3,2,3,False,Feeling Down
+8,False,3,1,2.5,1,True,8,False,True,True,7,False,1,2,3,False,Balanced
+8,False,4,2,0.6,3,False,6,False,False,False,4,True,3,5,3,False,Cheerful
+9,True,4,1,1.6,3,False,2,False,True,False,7,False,1,2,2,False,Cheerful
+9,False,5,4,3.5,1,False,6,False,True,False,2,True,2,5,5,False,Feeling Down
+8,True,2,4,2.8,0,True,7,True,True,False,0,False,2,3,5,False,Critical
+7,False,5,1,2.6,1,False,3,True,True,False,1,True,3,5,3,False,Thriving
+9,False,2,2,1.3,2,False,4,True,True,False,7,False,4,1,4,False,Feeling Down
+7,False,3,5,1.6,1,True,2,True,False,False,3,True,2,3,5,False,Feeling Down
+4,False,5,2,2.9,1,True,3,False,False,False,11,True,3,2,1,False,Thriving
+8,True,4,2,1.6,0,True,5,False,True,False,0,True,3,3,4,False,Cheerful
+7,True,4,3,3.2,2,True,2,True,True,True,11,True,3,1,4,False,Cheerful
+9,False,3,4,3.0,1,True,7,True,True,False,0,False,1,3,3,False,Feeling Down
+7,False,2,3,1.8,2,True,4,True,False,False,7,False,3,1,4,False,Feeling Down
+7,True,5,4,3.5,2,False,10,True,False,False,11,False,1,3,5,False,Feeling Down
+9,True,5,5,2.7,1,True,3,False,True,False,10,False,1,1,3,False,Feeling Down
+7,False,4,1,2.5,1,False,10,True,True,True,1,True,2,2,4,False,Cheerful
+9,False,3,3,2.8,0,True,9,False,True,True,10,True,4,3,5,False,Balanced
+5,False,5,5,0.8,1,True,5,False,True,False,5,True,2,3,2,False,Feeling Down
+7,False,2,1,2.5,2,True,8,False,False,False,2,False,4,3,3,False,Feeling Down
+8,False,4,3,1.6,1,True,9,True,True,True,8,True,3,4,5,False,Cheerful
+6,True,3,1,1.8,0,True,2,False,True,False,10,True,3,2,1,False,Balanced
+7,False,5,3,2.3,1,False,4,True,False,False,11,True,3,2,3,False,Thriving
+6,False,3,1,2.3,0,True,8,True,True,True,6,False,3,3,2,False,Balanced
+9,False,3,2,0.5,2,True,7,False,False,True,8,True,3,2,5,False,Balanced
+8,False,2,2,1.9,2,True,6,False,True,False,12,False,1,3,3,False,Feeling Down
+7,False,3,5,2.6,0,True,9,False,True,False,8,False,2,5,3,False,Feeling Down
+8,True,5,3,2.0,2,False,5,False,True,False,4,False,2,2,1,False,Thriving
+8,False,5,2,1.9,2,False,10,True,False,False,9,False,1,4,4,False,Thriving
+8,False,4,3,2.0,3,True,4,True,True,False,10,True,1,2,5,False,Cheerful
+5,False,4,3,1.8,2,True,2,True,True,False,2,False,2,2,3,False,Cheerful
+8,False,3,3,1.2,2,True,5,True,True,False,6,False,1,4,3,False,Balanced
+7,True,3,5,2.7,0,False,7,True,False,False,4,False,1,2,5,False,Feeling Down
+7,False,4,3,2.5,1,True,5,False,True,False,8,True,3,4,4,False,Cheerful
+7,True,3,4,2.0,0,True,7,True,False,True,0,False,5,4,5,False,Feeling Down
+7,False,4,5,1.3,2,True,3,True,True,True,0,False,1,4,2,False,Feeling Down
+8,False,2,1,2.0,0,True,7,True,False,False,2,False,3,3,3,False,Feeling Down
+7,False,4,2,1.4,1,True,4,True,True,True,10,True,1,1,4,False,Cheerful
+7,False,5,1,3.1,1,False,10,False,True,False,5,False,1,3,3,False,Thriving
+9,False,5,1,2.4,3,False,7,False,True,True,10,True,2,1,2,False,Thriving
+6,False,3,1,2.3,1,True,5,False,False,False,3,True,4,4,5,False,Balanced
+5,True,1,1,1.1,0,False,9,False,False,False,5,False,1,1,3,False,Balanced
+6,True,1,2,0.6,3,True,5,True,False,False,9,False,1,5,4,False,Balanced
+8,False,5,1,2.0,1,False,7,False,True,False,9,True,4,5,2,False,Thriving
+7,True,5,1,2.2,2,True,7,False,True,False,4,False,1,3,2,False,Thriving
+7,False,3,1,2.6,1,True,5,False,True,False,9,False,2,3,5,False,Balanced
+7,False,3,2,3.1,0,True,4,True,False,False,12,True,1,3,4,False,Balanced
+8,True,1,1,0.5,2,True,2,True,True,True,4,False,1,2,5,False,Balanced
+7,True,3,2,1.0,1,False,3,True,True,False,12,True,3,4,3,False,Balanced
+6,False,4,1,0.5,1,False,3,True,True,False,8,False,1,3,4,False,Cheerful
+8,False,5,4,0.8,1,True,7,True,True,False,4,False,3,3,3,False,Feeling Down
+7,False,5,2,3.1,0,True,5,False,False,False,11,False,3,1,4,False,Thriving
+7,False,4,2,3.3,3,True,4,False,True,False,4,False,4,3,3,False,Cheerful
+7,False,5,2,1.6,1,True,4,True,True,False,9,False,1,3,4,False,Thriving
+8,False,4,1,3.1,0,True,4,False,False,False,0,True,1,2,2,False,Cheerful
+9,False,3,1,3.2,1,False,3,True,True,False,6,False,4,2,3,False,Balanced
+6,False,2,2,2.2,2,False,9,False,True,True,0,True,3,3,3,False,Feeling Down
+6,False,4,5,1.4,1,True,2,True,True,False,8,False,4,3,5,False,Feeling Down
+6,True,5,4,2.5,3,False,7,False,False,False,7,True,5,2,2,False,Feeling Down
+5,True,5,2,1.7,1,True,7,True,False,False,7,False,3,3,1,False,Thriving
+8,False,2,1,1.3,1,True,4,True,True,False,8,False,2,1,1,False,Feeling Down
+6,False,4,3,3.1,0,True,7,True,True,False,0,False,5,1,5,False,Cheerful
+5,False,2,4,1.8,1,True,9,False,False,False,9,False,2,1,3,False,Critical
+8,False,4,3,0.8,1,False,7,False,False,False,9,False,1,1,5,False,Cheerful
+9,False,3,1,2.8,1,True,2,True,False,False,3,True,4,1,5,False,Balanced
+8,True,4,2,2.0,4,True,9,False,True,False,12,True,2,5,2,False,Cheerful
+7,True,4,4,1.6,1,True,6,False,True,False,7,False,5,3,4,False,Feeling Down
+8,False,3,2,1.5,2,False,5,True,True,False,1,True,4,2,2,False,Balanced
+8,False,5,2,0.9,0,False,3,False,False,True,7,True,2,1,2,False,Thriving
+8,True,4,5,2.0,3,False,6,True,True,False,4,True,2,1,5,False,Feeling Down
+8,False,3,5,0.9,1,False,6,True,True,False,11,True,3,5,3,False,Feeling Down
+7,True,4,1,1.5,0,False,9,True,False,True,4,True,2,4,4,False,Cheerful
+6,True,4,3,0.9,0,True,10,True,True,False,11,False,2,2,2,False,Cheerful
+5,False,2,3,0.5,1,True,6,True,False,False,5,False,2,3,2,False,Feeling Down
+5,False,4,2,2.6,1,False,4,False,True,False,11,True,1,1,5,False,Cheerful
+4,False,5,4,2.1,2,True,10,True,False,True,10,False,2,4,3,False,Feeling Down
+6,False,4,2,1.8,1,True,5,True,False,False,1,False,2,3,5,False,Cheerful
+9,False,2,4,3.3,4,False,8,False,True,False,5,True,3,2,3,False,Critical
+5,False,3,4,1.2,1,True,2,False,False,False,2,False,4,2,2,False,Feeling Down
+6,False,3,3,2.5,3,False,8,False,True,True,4,True,4,2,3,False,Balanced
+8,True,3,3,1.9,0,False,4,True,False,False,8,False,2,3,4,False,Balanced
+8,False,3,1,3.4,0,False,2,False,True,False,4,False,2,3,3,False,Balanced
+7,False,2,3,1.0,1,True,2,True,False,False,6,False,1,4,4,False,Feeling Down
+8,False,2,1,2.1,0,False,4,False,False,False,3,False,3,2,5,False,Feeling Down
+6,True,4,3,1.3,2,True,6,True,True,False,6,False,2,4,3,False,Cheerful
+7,False,2,2,2.8,1,False,7,True,False,True,9,True,2,3,4,False,Feeling Down
+5,False,4,1,3.0,1,True,10,True,False,True,12,True,3,1,3,False,Cheerful
+6,True,5,1,1.8,2,False,8,True,True,False,2,True,2,3,3,False,Thriving
+6,True,5,3,1.6,0,False,6,False,True,False,0,False,3,4,4,False,Thriving
+7,True,5,2,1.0,2,False,8,False,True,False,2,True,1,3,3,False,Thriving
+7,True,5,3,2.9,2,False,8,True,True,False,0,True,3,2,4,False,Thriving
+6,False,3,2,2.1,1,True,2,False,True,True,11,True,5,5,3,False,Balanced
+7,False,4,2,2.9,1,False,6,False,True,False,0,False,2,2,2,False,Cheerful
+5,False,2,2,3.2,0,True,4,False,False,False,9,False,4,3,2,False,Feeling Down
+6,True,4,2,2.4,0,True,7,False,True,False,7,False,3,3,4,False,Cheerful
+7,False,1,3,0.6,4,True,4,True,True,False,2,True,3,4,1,True,Critical
+5,False,3,2,1.2,3,False,5,True,False,True,10,True,3,1,1,False,Balanced
+7,False,3,1,2.4,0,False,5,True,False,False,4,False,2,1,4,False,Balanced
+8,False,3,3,2.8,0,True,3,False,True,False,9,False,2,4,5,False,Balanced
+7,True,4,3,1.8,0,False,8,False,True,False,11,False,4,4,4,False,Cheerful
+6,False,1,1,2.2,1,True,7,True,False,False,7,False,3,1,1,False,Balanced
+7,True,3,2,1.3,2,False,6,True,False,False,9,False,3,2,3,False,Balanced
+7,True,1,1,3.4,3,True,10,False,True,False,8,False,2,3,4,False,Balanced
+6,False,3,2,1.9,0,True,4,True,False,False,5,False,2,4,2,False,Balanced
+6,False,5,2,1.3,1,True,7,False,True,True,5,True,1,4,4,False,Thriving
+8,False,3,3,1.7,2,False,4,False,True,False,1,False,3,2,4,False,Balanced
+5,False,2,3,2.6,1,True,4,False,True,False,8,False,3,2,4,False,Feeling Down
+8,True,2,1,2.9,2,True,6,True,True,False,10,False,1,3,5,False,Feeling Down
+5,False,2,2,2.4,2,True,8,True,True,False,4,True,3,3,5,False,Feeling Down
+6,False,5,3,2.0,0,False,4,True,True,False,8,True,2,3,1,False,Thriving
+7,False,5,4,0.9,2,True,10,True,True,False,3,False,3,2,4,False,Feeling Down
+7,False,3,1,0.7,0,True,4,False,True,False,1,False,4,4,4,False,Balanced
+4,False,5,3,1.5,1,False,5,True,False,False,10,False,5,2,2,False,Thriving
+8,False,4,3,2.8,0,True,5,True,False,False,12,False,3,4,3,False,Cheerful
+7,False,4,3,3.1,1,False,3,True,False,False,10,False,2,2,5,False,Cheerful
+6,False,3,5,1.5,1,True,5,False,True,False,8,True,3,3,3,False,Feeling Down
+6,False,3,1,2.8,0,True,7,True,False,False,8,True,4,2,4,False,Balanced
+4,False,2,4,2.0,0,False,5,False,False,False,6,False,1,3,3,False,Critical
+7,False,5,1,0.8,2,True,10,True,True,True,5,True,1,2,2,False,Thriving
+7,True,5,4,3.1,2,True,4,False,False,False,7,False,1,5,3,False,Feeling Down
+7,False,5,4,0.8,0,True,6,True,False,False,7,True,5,2,4,False,Feeling Down
+9,False,4,2,1.1,1,False,3,True,True,False,9,True,3,4,5,False,Cheerful
+6,False,2,1,1.5,1,True,5,False,False,False,11,True,4,5,5,False,Feeling Down
+4,True,5,1,2.0,2,False,3,False,True,False,2,True,4,2,2,False,Thriving
+6,False,3,3,2.6,2,False,4,False,False,False,5,True,2,1,4,False,Balanced
+6,True,5,1,0.7,0,True,6,True,False,False,5,False,3,2,3,False,Thriving
+9,False,2,5,1.8,0,True,6,True,True,False,7,False,1,3,2,False,Critical
+6,False,5,3,3.1,1,True,6,True,True,False,3,False,2,2,3,False,Thriving
+6,False,2,1,2.5,0,True,6,False,True,True,2,False,1,2,3,False,Feeling Down
+4,False,3,1,3.1,0,False,4,False,True,False,12,True,3,2,3,False,Balanced
+6,True,5,1,1.0,1,True,2,False,True,False,7,False,3,4,4,False,Thriving
+8,False,4,3,0.9,2,True,9,False,False,False,11,True,4,3,3,True,Critical
+7,False,3,1,2.3,3,True,9,True,False,False,3,False,1,2,5,False,Balanced
+6,False,3,4,1.4,3,False,9,False,True,False,7,False,1,4,5,False,Feeling Down
+6,True,4,5,0.5,0,True,4,False,True,False,8,False,1,3,5,False,Feeling Down
+7,True,3,1,2.7,1,False,6,True,False,False,0,True,2,3,3,False,Balanced
+7,False,5,2,2.0,2,False,9,False,True,False,11,True,3,2,2,False,Thriving
+5,False,4,3,2.3,1,False,8,False,False,False,7,True,1,1,3,False,Cheerful
+8,False,3,2,1.5,1,True,4,False,True,False,4,False,3,3,2,False,Balanced
+8,True,3,1,1.7,1,True,5,False,True,False,10,False,1,4,1,False,Balanced
+9,False,1,5,2.9,3,False,10,False,True,False,4,False,2,1,4,False,Critical
+6,True,5,4,1.4,2,False,5,True,False,False,3,False,5,2,2,False,Feeling Down
+5,False,4,1,3.4,2,False,10,False,True,True,3,False,3,2,4,False,Cheerful
+8,True,5,3,1.3,0,True,5,True,True,False,1,True,1,3,4,False,Thriving
+8,False,4,5,2.7,0,False,4,True,False,False,3,False,4,1,3,False,Feeling Down
+7,False,3,4,0.8,0,True,2,False,True,False,9,False,2,4,4,False,Feeling Down
+8,False,1,1,2.2,2,True,3,False,True,False,0,True,1,3,1,False,Balanced
+6,False,5,1,2.8,3,True,3,False,True,True,5,False,2,5,4,False,Thriving
+8,False,3,1,2.7,0,True,10,False,True,False,12,False,2,2,4,False,Balanced
+4,False,1,2,1.8,2,True,3,True,True,False,12,True,2,3,4,False,Balanced
+7,True,4,2,1.5,0,False,2,False,True,True,5,False,3,1,4,False,Cheerful
+7,False,3,3,1.8,0,False,10,False,True,False,0,True,2,3,2,False,Balanced
+7,False,4,3,0.7,0,False,7,True,True,False,10,False,1,1,4,False,Cheerful
+8,False,4,2,1.7,0,False,9,True,True,False,6,False,3,1,3,False,Cheerful
+8,True,3,3,1.2,1,True,4,False,True,False,5,False,1,2,4,False,Balanced
+9,False,5,3,1.2,2,False,3,True,False,False,3,True,2,5,4,False,Thriving
+4,False,4,3,3.1,1,False,5,False,True,False,12,False,2,1,4,False,Cheerful
+6,True,4,1,1.6,0,True,4,False,True,False,1,True,2,3,2,False,Cheerful
+7,False,5,1,3.0,3,False,2,True,True,False,8,False,4,2,3,False,Thriving
+7,False,4,4,3.0,1,False,6,False,True,True,1,False,3,5,3,False,Feeling Down
+7,False,3,4,2.8,4,False,2,False,True,False,0,True,3,4,4,False,Feeling Down
+9,True,5,2,0.5,3,True,2,True,True,False,5,False,2,3,4,False,Thriving
+7,False,4,2,2.6,2,True,3,True,True,False,1,True,3,3,3,False,Cheerful
+8,True,4,3,2.1,1,False,9,True,False,True,1,True,2,2,4,False,Cheerful
+6,False,3,2,3.3,0,False,5,True,True,False,9,True,2,4,3,False,Balanced
+7,True,3,3,1.0,0,False,3,True,False,False,4,True,5,4,3,False,Balanced
+5,True,2,1,0.9,2,True,3,False,False,False,0,True,1,2,3,False,Feeling Down
+7,False,3,1,1.4,0,True,2,False,False,True,3,True,2,4,4,False,Balanced
+6,False,3,1,2.3,4,True,10,True,True,False,6,False,4,1,4,False,Balanced
+7,True,3,1,1.2,0,False,8,False,True,False,6,False,4,2,3,False,Balanced
+8,False,5,4,1.0,0,True,3,True,True,True,7,False,1,3,5,False,Feeling Down
+8,True,2,1,3.4,2,True,3,False,True,True,0,True,1,5,3,False,Feeling Down
+8,True,5,4,2.4,0,True,2,True,True,False,0,True,4,4,3,False,Feeling Down
+7,False,3,3,3.2,2,True,7,False,False,False,10,False,4,3,4,False,Balanced
+6,True,5,4,2.0,1,True,9,False,False,False,1,False,3,3,5,False,Feeling Down
+8,False,3,3,2.8,1,True,7,False,False,True,5,True,1,3,1,False,Balanced
+7,True,3,1,1.7,1,True,4,False,True,True,12,True,1,3,5,False,Balanced
+5,False,4,2,1.1,0,False,4,True,False,True,3,True,1,3,4,True,Critical
+7,True,3,2,3.4,3,False,4,False,False,False,6,False,3,5,4,False,Balanced
+7,True,4,3,0.6,1,False,7,True,False,False,4,True,3,3,5,False,Cheerful
+9,False,3,2,3.2,1,False,4,True,True,False,11,False,5,2,2,False,Balanced
+5,True,4,1,1.4,0,False,9,False,False,True,4,False,3,1,3,False,Cheerful
+6,True,5,4,3.2,0,True,10,False,True,False,7,True,1,3,4,False,Feeling Down
+4,False,5,3,2.7,0,False,5,False,True,False,9,False,3,5,5,False,Thriving
+6,False,3,3,2.5,1,True,3,True,False,True,6,False,3,1,1,False,Balanced
+7,False,5,5,0.9,1,False,6,True,True,False,5,True,1,2,3,False,Feeling Down
+5,False,5,3,1.3,1,True,3,False,False,False,11,False,2,3,3,False,Thriving
+6,False,3,2,0.8,1,True,7,True,True,False,10,False,1,3,3,False,Balanced
+9,True,5,2,2.6,1,False,4,False,True,False,3,True,2,2,3,False,Thriving
+6,True,5,2,1.0,3,False,4,True,False,False,7,False,2,4,2,False,Thriving
+4,False,4,2,1.9,0,True,8,False,False,True,0,False,3,4,3,False,Cheerful
+6,False,4,1,3.2,1,False,5,True,False,False,10,False,1,2,3,False,Cheerful
+5,False,4,3,3.1,2,True,6,False,True,False,3,True,3,3,5,False,Cheerful
+7,False,4,1,1.8,1,True,10,False,True,True,12,True,3,4,4,False,Cheerful
+7,True,4,4,1.7,2,True,4,True,True,False,11,False,1,1,5,False,Feeling Down
+5,False,4,5,2.3,1,True,5,True,True,False,3,False,3,2,3,False,Feeling Down
+6,False,3,5,3.1,0,True,9,True,True,False,9,False,1,1,4,False,Feeling Down
+8,False,5,1,0.6,0,False,7,True,False,False,3,True,2,4,4,False,Thriving
+7,False,4,3,0.9,1,False,7,True,False,False,4,False,1,5,2,False,Cheerful
+8,False,4,2,3.4,2,True,5,True,True,False,12,True,3,3,2,False,Cheerful
+8,True,3,3,3.2,1,True,10,True,True,False,11,False,4,4,3,False,Balanced
+7,True,5,2,2.1,1,False,3,True,True,False,5,False,2,4,5,False,Thriving
+7,True,3,2,3.0,0,False,10,True,False,False,11,True,2,5,3,False,Balanced
+7,True,4,3,1.3,0,True,9,False,False,True,11,False,3,1,4,False,Cheerful
+7,False,2,1,0.9,1,False,8,True,False,False,12,True,2,1,4,False,Feeling Down
+8,False,3,4,1.9,3,True,5,False,True,True,9,True,3,3,5,False,Feeling Down
+7,False,3,2,3.1,1,True,9,False,True,False,5,False,4,3,4,False,Balanced
+7,False,5,1,0.7,2,True,4,False,True,False,1,False,3,3,4,False,Thriving
+8,True,3,2,2.9,3,False,4,True,True,False,5,False,3,2,2,False,Balanced
+6,False,5,1,2.2,2,False,2,False,True,False,5,True,5,4,4,False,Thriving
+7,False,4,3,3.2,0,True,3,False,True,False,11,True,2,4,2,False,Cheerful
+8,True,3,3,1.9,2,False,6,False,False,False,3,False,2,4,5,False,Balanced
+6,True,5,5,2.5,0,False,2,True,False,False,12,True,2,2,5,False,Feeling Down
+7,False,4,5,1.5,1,True,5,False,False,False,10,True,1,5,2,False,Feeling Down
+6,True,5,3,2.2,0,False,2,True,True,False,6,False,3,3,3,False,Thriving
+7,False,3,2,2.3,2,True,7,False,True,False,3,False,2,5,5,False,Balanced
+9,False,5,1,1.3,0,False,4,False,False,False,10,True,2,2,5,False,Thriving
+7,False,3,2,0.9,0,False,10,True,True,False,11,True,3,2,3,False,Balanced
+9,False,3,2,2.2,1,False,8,True,False,False,11,True,2,1,4,False,Balanced
+4,False,1,1,0.9,2,False,4,True,True,False,10,False,1,2,5,False,Balanced
+8,False,3,3,2.5,0,False,8,False,False,False,9,False,2,2,3,False,Balanced
+8,True,4,2,2.5,1,True,6,True,False,False,10,False,2,2,4,False,Cheerful
+8,False,5,4,2.2,0,False,2,False,True,True,10,False,2,1,3,True,Critical
+7,True,5,1,1.2,1,True,4,True,True,False,5,False,3,4,4,False,Thriving
+9,False,3,4,2.5,1,True,6,False,True,True,6,True,2,3,5,False,Feeling Down
+6,False,1,3,1.0,1,False,10,True,True,True,6,False,4,2,4,False,Balanced
+8,False,5,3,1.1,0,False,9,False,True,False,6,False,4,2,5,False,Thriving
+6,True,5,2,2.3,3,False,3,False,False,False,9,True,3,3,5,False,Thriving
+6,False,4,3,1.5,3,True,3,True,True,False,5,True,5,3,3,False,Cheerful
+7,False,4,3,2.3,0,True,10,False,True,False,3,False,2,5,3,False,Cheerful
+7,False,4,1,1.7,1,True,7,True,True,False,4,False,1,2,3,False,Cheerful
+6,True,5,4,1.7,0,True,4,False,True,False,4,True,1,1,1,False,Feeling Down
+7,False,4,2,1.4,0,True,5,False,True,True,5,True,3,3,4,False,Cheerful
+7,True,1,3,2.5,1,True,5,False,True,False,4,True,2,4,4,False,Balanced
+6,False,4,2,1.3,0,True,2,True,True,True,8,True,2,5,4,False,Cheerful
+7,False,2,2,0.7,0,False,6,False,True,True,1,True,3,5,2,False,Feeling Down
+8,False,3,1,2.0,1,True,9,False,True,False,12,True,2,5,3,False,Balanced
+9,False,3,3,3.2,2,True,10,True,True,True,1,False,4,1,3,False,Balanced
+9,False,2,1,2.2,1,True,2,True,True,False,2,False,1,1,4,False,Feeling Down
+9,False,4,2,0.8,0,True,7,False,True,False,10,False,3,3,2,False,Cheerful
+4,False,2,1,2.7,2,True,5,False,True,True,4,True,1,2,4,False,Feeling Down
+8,False,4,3,1.4,0,False,9,True,True,False,6,True,5,3,5,False,Cheerful
+7,True,4,2,2.7,2,True,2,True,False,False,2,False,2,4,5,False,Cheerful
+8,True,4,2,1.4,2,False,8,False,False,False,3,True,4,3,3,False,Cheerful
+8,True,4,2,2.7,4,True,4,True,False,False,4,True,2,5,4,False,Cheerful
+8,False,5,4,3.4,1,False,8,False,False,False,10,True,5,5,5,False,Feeling Down
+8,True,4,1,2.9,3,False,8,False,True,False,8,False,1,5,5,False,Cheerful
+8,True,4,1,2.7,0,True,7,False,True,False,9,False,4,4,4,False,Cheerful
+6,False,3,4,2.3,0,False,10,True,False,True,7,True,4,3,5,False,Feeling Down
+8,False,5,1,2.7,0,False,10,True,False,False,2,False,3,4,2,False,Thriving
+6,True,4,3,2.7,0,True,5,False,True,False,3,False,2,2,2,False,Cheerful
+8,True,5,5,2.7,1,False,7,False,False,False,12,False,1,1,3,False,Feeling Down
+5,True,2,4,1.1,0,True,2,False,True,False,8,False,3,1,4,False,Critical
+5,True,5,1,0.7,0,False,8,True,False,False,6,False,3,1,3,False,Thriving
+5,False,4,4,1.3,3,True,10,True,True,True,12,False,3,1,3,False,Feeling Down
+6,True,4,1,2.3,0,True,4,False,False,False,10,True,1,2,1,False,Cheerful
+5,True,3,1,3.4,0,False,7,True,True,False,3,False,3,5,3,False,Balanced
+9,False,5,1,2.0,2,False,9,False,False,True,5,False,4,2,3,False,Thriving
+8,True,4,5,2.0,2,True,7,True,True,True,6,True,3,4,2,False,Feeling Down
+9,False,5,4,1.1,1,False,6,False,False,True,2,False,4,2,4,False,Feeling Down
+8,False,5,2,1.9,0,True,3,False,False,False,11,False,3,3,4,False,Thriving
+7,True,4,4,2.1,1,True,4,True,True,True,5,True,1,2,3,False,Feeling Down
+8,False,4,2,1.1,2,False,5,True,False,False,12,True,2,2,2,False,Cheerful
+6,False,3,5,2.3,1,True,8,True,True,False,5,True,3,1,4,False,Feeling Down
+8,False,4,3,2.6,1,True,6,True,True,False,7,False,3,2,5,False,Cheerful
+6,False,3,3,1.0,1,True,8,True,False,True,4,True,1,4,5,False,Balanced
+8,False,5,1,3.4,0,False,6,True,False,True,11,False,3,3,5,False,Thriving
+7,False,3,1,1.2,1,True,10,True,False,False,10,True,3,2,5,False,Balanced
+7,True,4,4,3.2,3,True,9,False,False,False,1,True,5,3,2,False,Feeling Down
+5,True,3,2,2.2,0,True,9,True,True,False,12,False,5,3,2,False,Balanced
+7,False,4,1,3.0,0,True,7,True,True,False,10,False,3,2,4,False,Cheerful
+6,False,5,5,3.1,2,True,5,False,True,False,0,False,2,2,3,False,Feeling Down
+9,True,4,5,1.9,1,True,2,False,True,True,4,False,3,3,3,False,Feeling Down
+5,False,4,1,3.1,1,False,6,False,False,False,3,False,4,1,3,False,Cheerful
+6,False,4,4,1.3,0,True,9,True,False,True,12,True,2,4,3,False,Feeling Down
+9,False,5,2,2.5,1,True,6,True,True,True,8,True,4,4,3,False,Thriving
+9,False,5,5,2.5,1,True,8,True,True,False,1,False,3,1,4,False,Feeling Down
+6,True,2,4,1.6,2,False,3,True,True,False,8,True,3,3,4,False,Critical
+8,True,3,5,1.6,0,False,8,True,True,True,0,False,5,3,1,False,Feeling Down
+7,False,4,3,3.3,0,True,4,False,False,False,11,False,4,5,3,False,Cheerful
+7,True,4,1,0.8,1,True,8,True,False,True,3,True,1,3,3,False,Cheerful
+4,False,4,3,3.0,1,True,5,True,True,False,10,False,1,3,5,False,Cheerful
+8,True,4,4,2.6,2,True,8,True,True,False,1,True,2,3,3,False,Feeling Down
+7,True,5,2,2.5,1,True,3,True,True,False,11,False,3,3,3,False,Thriving
+4,False,4,2,2.0,0,True,4,True,True,True,0,True,2,3,4,False,Cheerful
+9,True,2,4,2.6,0,True,10,True,True,True,0,False,3,1,3,False,Critical
+9,False,4,2,2.8,1,True,7,False,False,False,6,False,2,4,5,False,Cheerful
+8,False,2,3,1.4,2,True,10,False,False,True,10,True,3,1,1,False,Feeling Down
+8,False,2,3,1.6,1,True,2,True,True,False,12,True,1,4,4,False,Feeling Down
+7,True,2,2,3.0,2,False,5,False,True,False,4,False,2,3,3,False,Feeling Down
+8,False,3,3,2.7,0,True,5,False,False,False,5,False,3,3,2,False,Balanced
+8,False,4,1,0.8,2,False,10,False,True,False,3,True,1,2,3,False,Cheerful
+8,False,4,2,0.6,2,True,7,True,False,False,2,True,1,4,2,False,Cheerful
+8,False,4,4,0.9,1,True,6,False,True,False,3,False,2,2,5,False,Feeling Down
+7,False,1,3,3.1,1,False,8,False,False,False,1,False,1,3,4,False,Balanced
+9,False,2,4,2.3,2,True,9,False,True,False,6,True,4,2,3,False,Critical
+8,False,4,2,2.3,1,True,2,True,True,True,9,False,3,5,4,False,Cheerful
+7,False,3,1,0.9,1,True,5,True,True,False,10,True,1,2,5,False,Balanced
+8,False,3,4,1.5,0,False,5,False,True,True,0,True,2,2,5,False,Feeling Down
+9,True,5,1,0.8,3,True,8,True,True,False,8,False,3,3,3,False,Thriving
+6,False,1,2,2.4,0,False,2,False,False,True,11,True,5,3,2,False,Balanced
+8,False,4,2,1.7,2,False,8,False,False,True,0,True,3,2,4,False,Cheerful
+8,False,2,1,2.8,2,True,9,False,False,False,0,True,2,3,2,False,Feeling Down
+5,False,2,2,0.9,0,True,3,False,True,True,9,False,4,2,1,False,Feeling Down
+8,False,3,3,1.0,2,False,6,False,False,False,8,True,3,3,4,False,Balanced
+6,False,5,3,1.6,0,False,5,True,False,True,0,True,1,2,4,False,Thriving
+8,False,5,3,1.3,1,True,9,False,True,True,12,False,2,3,5,False,Thriving
+7,False,4,3,2.3,3,True,9,True,True,False,5,True,1,3,3,False,Cheerful
+7,True,3,2,1.5,0,True,4,False,False,True,5,False,2,3,5,False,Balanced
+7,True,1,1,0.8,1,False,9,False,True,False,4,False,1,3,3,False,Balanced
+7,False,5,1,2.1,2,False,6,True,True,True,3,True,3,3,5,False,Thriving
+5,True,3,3,3.2,1,True,7,False,True,False,11,True,4,3,3,False,Balanced
+8,False,4,3,1.4,1,True,6,False,True,False,5,True,2,5,5,False,Cheerful
+6,False,5,1,2.0,1,False,2,False,False,False,1,True,1,2,1,False,Thriving
+4,False,4,3,1.7,0,False,2,False,True,False,12,True,2,2,3,False,Cheerful
+6,False,3,3,2.7,1,True,3,True,True,False,5,False,4,2,4,False,Balanced
+6,False,3,3,3.5,2,True,6,False,False,False,6,False,1,3,3,False,Balanced
+5,False,2,3,1.8,2,True,8,True,False,False,7,False,2,2,4,False,Feeling Down
+8,True,1,1,3.3,1,False,2,False,True,False,6,False,3,2,4,False,Balanced
+6,False,4,1,3.2,0,True,7,False,True,False,5,False,2,1,4,False,Cheerful
+8,False,4,3,3.5,1,True,6,True,True,False,1,True,4,3,1,False,Cheerful
+5,False,4,3,1.8,2,False,5,False,False,False,2,True,3,3,2,False,Cheerful
+8,False,5,4,1.0,1,True,5,False,False,False,3,False,2,4,4,False,Feeling Down
+7,False,5,4,3.2,1,True,8,True,True,True,4,True,1,3,1,False,Feeling Down
+7,False,3,2,0.7,1,False,4,True,False,False,1,True,1,5,4,False,Balanced
+7,True,3,2,1.6,2,False,2,True,False,False,10,False,5,4,4,False,Balanced
+8,False,4,1,2.3,1,True,3,True,True,False,5,True,5,4,4,False,Cheerful
+7,False,2,3,0.8,2,True,3,True,True,True,6,False,4,1,3,False,Feeling Down
+5,False,1,5,3.0,0,True,8,False,True,False,3,False,1,4,5,False,Critical
+7,False,3,2,2.2,0,True,7,False,False,False,2,False,3,3,3,False,Balanced
+8,False,2,5,2.2,0,True,7,True,False,False,11,False,2,3,4,False,Critical
+7,False,2,3,1.6,1,False,9,False,False,False,7,False,3,5,4,False,Feeling Down
+7,True,4,4,3.0,2,True,5,True,False,False,3,False,3,2,4,False,Feeling Down
+9,False,3,2,1.1,2,True,10,False,True,False,6,False,1,1,4,False,Balanced
+8,False,2,1,3.0,1,True,2,False,False,True,6,False,4,3,4,False,Feeling Down
+9,False,5,2,3.4,0,True,10,True,True,False,0,False,2,3,5,False,Thriving
+6,False,5,2,3.0,0,True,10,False,False,False,1,False,1,2,4,False,Thriving
+6,False,3,1,1.5,0,False,6,True,True,False,2,True,2,2,5,False,Balanced
+6,False,4,2,2.0,1,True,3,False,False,False,6,True,2,4,3,False,Cheerful
+6,False,3,5,2.2,0,True,9,True,True,False,11,True,1,4,3,False,Feeling Down
+8,False,4,2,1.3,2,True,8,True,True,False,11,False,2,2,5,False,Cheerful
+7,False,5,2,0.8,0,False,8,True,False,True,5,False,1,1,3,False,Thriving
+6,False,4,4,0.7,3,True,8,False,True,False,12,False,2,3,4,False,Feeling Down
+9,False,4,4,3.2,0,True,2,False,True,False,2,False,1,3,5,False,Feeling Down
+8,False,4,2,2.6,1,False,3,True,True,False,2,True,3,2,4,False,Cheerful
+4,False,4,3,1.1,1,True,6,False,True,False,11,False,3,4,4,False,Cheerful
+5,True,5,1,1.4,0,False,2,True,False,False,3,False,2,3,2,True,Critical
+8,False,3,2,3.3,1,False,8,False,True,False,10,False,4,4,3,False,Balanced
+7,False,5,3,3.4,0,False,9,False,False,False,5,True,4,2,3,False,Thriving
+8,False,1,1,2.4,1,True,5,True,False,False,7,False,2,2,3,False,Balanced
+6,False,2,2,2.1,1,True,7,True,False,False,3,True,1,2,2,False,Feeling Down
+9,True,4,2,1.4,2,False,6,True,True,False,11,True,1,3,2,False,Cheerful
+8,False,3,2,2.5,1,True,8,True,False,True,9,False,3,3,2,False,Balanced
+7,False,4,2,1.7,1,True,2,False,True,False,3,False,4,3,4,False,Cheerful
+8,False,4,2,2.9,1,True,3,True,False,True,11,False,1,2,3,False,Cheerful
+8,False,3,3,2.2,0,False,10,True,False,False,10,True,4,2,2,False,Balanced
+5,False,4,2,3.0,0,True,3,False,True,False,5,False,1,3,4,False,Cheerful
+5,False,2,4,0.8,2,False,4,True,True,False,5,True,4,2,5,False,Critical
+5,False,5,4,1.8,2,False,3,False,True,False,2,True,2,3,4,False,Feeling Down
+8,False,5,1,2.4,0,False,6,True,False,False,2,True,1,1,4,False,Thriving
+5,True,1,1,0.7,0,False,7,True,False,False,0,False,2,3,2,False,Balanced
+9,False,3,2,1.4,1,False,2,False,True,False,4,False,1,3,4,False,Balanced
+7,False,4,2,2.0,0,False,9,False,False,False,8,True,1,4,4,False,Cheerful
+4,False,4,2,2.7,0,False,8,True,True,False,11,False,2,2,4,False,Cheerful
+5,False,3,4,2.7,0,True,3,False,False,False,2,False,1,4,2,False,Feeling Down
+8,False,4,2,1.8,3,False,2,False,False,False,0,True,2,5,3,False,Cheerful
+9,False,4,1,2.3,1,True,10,True,True,False,3,False,5,2,2,False,Cheerful
+8,False,3,4,2.9,0,False,7,False,True,True,6,True,3,5,4,False,Feeling Down
+8,False,4,5,3.2,2,False,7,True,True,False,1,False,2,4,2,False,Feeling Down
+8,False,3,2,1.1,2,True,10,True,False,False,9,False,2,1,2,False,Balanced
+7,False,4,4,3.4,1,True,10,True,True,False,1,False,3,4,5,False,Feeling Down
+6,False,3,1,1.7,0,True,6,False,True,False,8,True,2,2,4,False,Balanced
+8,True,5,1,0.6,1,False,2,False,False,False,4,False,3,3,5,False,Thriving
+6,False,5,3,2.7,1,True,10,False,True,False,7,True,3,3,4,False,Thriving
+6,False,4,1,3.4,3,True,10,True,False,False,10,False,2,2,4,False,Cheerful
+5,False,4,3,2.7,1,True,4,True,False,False,8,False,3,1,2,False,Cheerful
+5,True,5,2,3.2,3,True,6,True,False,False,4,True,3,2,4,False,Thriving
+7,True,4,4,2.2,2,False,10,True,True,True,4,False,1,4,5,False,Feeling Down
+8,True,1,3,0.6,1,False,10,False,False,False,10,True,4,3,3,False,Balanced
+4,False,3,4,0.9,1,True,9,True,False,False,10,True,1,2,2,False,Feeling Down
+7,False,4,1,1.3,0,True,4,False,True,False,8,False,5,1,3,False,Cheerful
+9,False,4,2,2.1,1,False,3,False,False,False,3,False,3,1,2,False,Cheerful
+9,True,4,1,1.7,2,True,2,True,False,False,3,False,3,4,3,False,Cheerful
+6,True,4,2,2.8,2,False,7,True,True,False,1,False,1,4,2,False,Cheerful
+8,False,3,3,1.0,1,True,6,True,True,False,5,False,5,4,2,False,Balanced
+7,True,5,1,2.8,0,True,10,True,True,False,0,True,3,4,3,False,Thriving
+7,False,5,3,1.2,1,True,6,True,False,True,0,True,3,3,3,False,Thriving
+6,False,3,4,2.1,2,True,2,False,False,False,0,True,5,2,5,False,Feeling Down
+7,False,2,2,1.4,0,True,7,True,False,True,7,True,3,4,4,False,Feeling Down
+8,True,5,2,2.6,0,True,4,False,True,False,9,False,2,1,5,False,Thriving
+7,True,4,4,2.9,2,True,6,False,True,False,11,False,3,2,3,False,Feeling Down
+7,True,3,2,2.5,0,False,6,False,True,False,12,True,2,3,3,False,Balanced
+8,False,5,2,0.7,0,True,8,True,True,True,1,True,2,2,4,False,Thriving
+7,True,4,4,3.0,1,True,8,False,False,False,8,True,3,4,3,False,Feeling Down
+8,False,5,1,2.3,1,True,8,False,False,True,5,False,3,1,2,False,Thriving
+6,False,3,3,3.4,1,True,5,True,True,False,10,True,3,2,3,False,Balanced
+8,False,3,3,2.2,0,True,5,True,False,False,5,True,2,1,4,False,Balanced
+7,False,4,2,2.2,1,False,4,True,True,False,12,False,1,3,2,False,Cheerful
+9,False,3,1,0.8,2,True,5,True,False,False,7,False,3,2,2,False,Balanced
+7,True,3,4,1.4,2,True,5,False,True,False,2,False,1,3,3,False,Feeling Down
+7,True,3,5,3.0,0,False,3,False,False,False,7,False,2,4,2,False,Feeling Down
+7,False,3,4,2.8,1,True,9,True,False,False,8,True,3,4,1,False,Feeling Down
+8,False,4,1,2.6,0,False,2,True,True,False,11,False,1,4,4,False,Cheerful
+8,False,5,4,2.0,0,False,5,True,True,False,8,True,1,3,4,False,Feeling Down
+7,False,1,1,1.5,1,False,6,False,True,False,5,False,4,2,3,False,Balanced
+9,False,5,3,2.1,1,True,8,True,False,True,11,False,1,2,3,False,Thriving
+5,False,3,3,1.0,2,True,4,False,False,False,1,True,2,3,4,False,Balanced
+5,False,2,1,1.1,0,True,9,True,False,False,3,False,3,3,3,False,Feeling Down
+6,False,5,2,0.9,2,False,9,False,True,False,3,True,4,2,5,False,Thriving
+4,True,5,1,3.0,0,True,6,False,True,False,3,False,1,2,5,False,Thriving
+5,False,4,4,3.2,0,True,7,False,True,False,1,True,2,3,3,False,Feeling Down
+6,False,5,1,3.4,0,True,9,False,True,False,3,False,3,5,2,False,Thriving
+4,False,4,4,1.6,2,False,8,True,False,True,11,True,2,2,3,False,Feeling Down
+9,False,4,1,1.9,0,True,7,True,True,False,11,False,4,3,4,False,Cheerful
+7,True,3,3,1.1,1,False,4,False,False,False,6,False,1,3,3,False,Balanced
+9,False,5,4,1.2,1,True,2,True,False,False,5,False,4,2,5,False,Feeling Down
+7,False,2,3,3.1,0,False,8,False,False,False,1,True,2,3,5,False,Feeling Down
+7,False,1,1,3.1,0,False,3,True,True,False,11,False,1,5,5,False,Balanced
+6,False,1,3,2.3,1,False,7,True,False,False,4,True,4,4,5,False,Balanced
+4,True,4,2,2.3,0,False,7,False,False,True,4,False,1,2,3,False,Cheerful
+7,False,2,3,1.4,1,True,9,True,True,False,8,True,3,1,5,False,Feeling Down
+8,False,4,5,2.9,1,True,4,False,False,True,2,False,1,3,3,False,Feeling Down
+7,False,5,1,1.6,0,True,9,False,True,False,8,True,5,4,3,False,Thriving
+7,False,4,4,3.5,1,True,6,True,True,False,4,False,2,1,2,False,Feeling Down
+8,False,5,4,3.3,1,False,6,True,True,False,12,True,3,3,4,False,Feeling Down
+7,True,4,1,0.6,2,True,8,False,False,False,3,False,2,3,5,False,Cheerful
+7,False,4,2,1.3,0,False,5,False,False,False,5,False,3,1,3,False,Cheerful
+8,True,3,2,2.7,1,False,6,False,True,False,12,True,3,2,4,False,Balanced
+6,False,3,3,3.2,1,False,3,False,False,False,2,False,3,5,5,False,Balanced
+8,False,4,3,2.4,2,True,8,True,False,False,1,True,2,2,2,False,Cheerful
+7,False,4,3,2.3,0,False,4,True,False,True,11,True,4,2,3,False,Cheerful
+9,True,4,4,1.3,2,True,3,True,False,True,1,False,3,4,4,False,Feeling Down
+7,True,3,1,3.3,1,True,6,True,False,False,1,False,1,3,2,False,Balanced
+7,False,4,5,0.6,1,True,9,True,True,False,6,True,3,4,3,False,Feeling Down
+6,False,3,3,0.9,1,True,9,False,True,False,11,False,4,4,4,False,Balanced
+7,False,3,3,2.5,1,True,2,True,True,False,8,False,3,4,5,False,Balanced
+6,False,3,3,2.8,2,True,3,True,True,True,6,False,2,1,2,False,Balanced
+9,False,3,4,2.7,2,True,5,False,True,False,11,True,1,1,4,False,Feeling Down
+7,True,2,1,3.3,2,False,2,False,True,False,2,False,4,5,2,False,Feeling Down
+6,True,3,5,2.7,1,False,5,True,True,False,3,True,3,1,4,False,Feeling Down
+4,False,3,4,2.4,1,True,3,True,False,False,8,True,1,5,5,False,Feeling Down
+5,True,3,2,3.3,3,True,4,False,True,True,1,False,2,4,5,False,Balanced
+7,True,4,4,0.6,0,False,4,False,False,False,12,False,4,4,4,False,Feeling Down
+5,False,3,5,1.3,0,False,3,False,False,False,9,False,4,2,3,False,Feeling Down
+5,True,1,3,1.2,0,True,4,False,False,True,3,False,3,1,2,False,Balanced
+8,False,2,3,1.0,1,True,2,True,False,True,11,True,3,1,4,False,Feeling Down
+7,False,2,1,0.8,1,True,6,False,True,False,0,False,2,4,2,False,Feeling Down
+7,False,4,3,2.7,0,True,5,True,False,False,3,False,2,3,4,False,Cheerful
+8,True,3,2,0.7,0,True,9,False,False,False,12,False,3,1,5,False,Balanced
+6,False,4,1,0.9,0,True,3,False,True,False,6,False,5,4,1,False,Cheerful
+7,False,3,2,2.2,0,False,2,True,True,False,11,True,5,2,2,False,Balanced
+8,False,5,2,0.7,2,False,3,False,True,True,7,False,3,2,4,False,Thriving
+7,True,3,3,2.5,1,True,10,True,True,False,11,True,2,3,1,False,Balanced
+9,True,5,2,2.1,0,False,8,False,True,True,10,True,3,2,3,False,Thriving
+9,True,4,3,3.1,0,True,2,False,True,False,12,True,1,3,4,False,Cheerful
